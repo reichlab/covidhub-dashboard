@@ -1,6 +1,3 @@
 ---
-hub: "cdcepi/FluSight-forecast-hub/"
-title: "Example Hub Dashboard Website"
-pages:
-  - "about.md"
-
+hub: "CDCgov/covid19-forecast-hub/"
+title: "COVID Hub Dashboard Website"

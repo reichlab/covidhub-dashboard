@@ -3,23 +3,21 @@ title: "Introduction"
 ---
 
 
+
+This is a dashboard for the [COVID-19 Forecast Hub](https://github.com/CDCgov/covid19-forecast-hub) that is organized by the US CDC. A page with forecast evaluations will be added at a later date.
+
 ::: {style='display:flex; align-items: center; justify-content: center'}
 
 [View The Latest Forecasts](forecast.html){.btn .btn-primary role="button"}
 
 :::
 
+The target data for the COVID-19 Forecast Hub is hospitalizations with COVID-19 as reported to the National Healthcare Safety Network (NHSN); this data is publicly available through the CDC's [Weekly Hospital Respiratory Data (HRD) Metrics](https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/mpgq-jmmr/about_data) dataset.
 
-This Dashboard is build with Quarto. 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::::{.callout-note}
 
-Authors can use $\LaTeX$ to write equations and even put in callouts:
+[The CDC notes](https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/mpgq-jmmr/about_data) that:
 
-:::{.callout-note}
+> Data for reporting dates through April 30, 2024 represent data reported during a previous mandated reporting period as specified by the HHS Secretary. Data for reporting dates May 1, 2024--October 31, 2024 represent voluntarily reported data in the absence of a mandate. Data for reporting dates beginning November 1, 2024 represent data reported during a current mandated reporting period.
 
-Look at this note!
-
-:::
-
-
-
+::::
