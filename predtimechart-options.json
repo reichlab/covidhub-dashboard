@@ -1,0 +1,331 @@
+{
+    "target_variables": [
+        {
+            "value": "wk inc flu hosp",
+            "text": "incident influenza hospitalizations",
+            "plot_text": "incident influenza hospitalizations"
+        }
+    ],
+    "initial_target_var": "wk inc flu hosp",
+    "task_ids": {
+        "location": [
+            {
+                "value": "US",
+                "text": "United States"
+            },
+            {
+                "value": "01",
+                "text": "Alabama"
+            },
+            {
+                "value": "02",
+                "text": "Alaska"
+            },
+            {
+                "value": "04",
+                "text": "Arizona"
+            },
+            {
+                "value": "05",
+                "text": "Arkansas"
+            },
+            {
+                "value": "06",
+                "text": "California"
+            },
+            {
+                "value": "08",
+                "text": "Colorado"
+            },
+            {
+                "value": "09",
+                "text": "Connecticut"
+            },
+            {
+                "value": "10",
+                "text": "Delaware"
+            },
+            {
+                "value": "11",
+                "text": "District of Columbia"
+            },
+            {
+                "value": "12",
+                "text": "Florida"
+            },
+            {
+                "value": "13",
+                "text": "Georgia"
+            },
+            {
+                "value": "15",
+                "text": "Hawaii"
+            },
+            {
+                "value": "16",
+                "text": "Idaho"
+            },
+            {
+                "value": "17",
+                "text": "Illinois"
+            },
+            {
+                "value": "18",
+                "text": "Indiana"
+            },
+            {
+                "value": "19",
+                "text": "Iowa"
+            },
+            {
+                "value": "20",
+                "text": "Kansas"
+            },
+            {
+                "value": "21",
+                "text": "Kentucky"
+            },
+            {
+                "value": "22",
+                "text": "Louisiana"
+            },
+            {
+                "value": "23",
+                "text": "Maine"
+            },
+            {
+                "value": "24",
+                "text": "Maryland"
+            },
+            {
+                "value": "25",
+                "text": "Massachusetts"
+            },
+            {
+                "value": "26",
+                "text": "Michigan"
+            },
+            {
+                "value": "27",
+                "text": "Minnesota"
+            },
+            {
+                "value": "28",
+                "text": "Mississippi"
+            },
+            {
+                "value": "29",
+                "text": "Missouri"
+            },
+            {
+                "value": "30",
+                "text": "Montana"
+            },
+            {
+                "value": "31",
+                "text": "Nebraska"
+            },
+            {
+                "value": "32",
+                "text": "Nevada"
+            },
+            {
+                "value": "33",
+                "text": "New Hampshire"
+            },
+            {
+                "value": "34",
+                "text": "New Jersey"
+            },
+            {
+                "value": "35",
+                "text": "New Mexico"
+            },
+            {
+                "value": "36",
+                "text": "New York"
+            },
+            {
+                "value": "37",
+                "text": "North Carolina"
+            },
+            {
+                "value": "38",
+                "text": "North Dakota"
+            },
+            {
+                "value": "39",
+                "text": "Ohio"
+            },
+            {
+                "value": "40",
+                "text": "Oklahoma"
+            },
+            {
+                "value": "41",
+                "text": "Oregon"
+            },
+            {
+                "value": "42",
+                "text": "Pennsylvania"
+            },
+            {
+                "value": "44",
+                "text": "Rhode Island"
+            },
+            {
+                "value": "45",
+                "text": "South Carolina"
+            },
+            {
+                "value": "46",
+                "text": "South Dakota"
+            },
+            {
+                "value": "47",
+                "text": "Tennessee"
+            },
+            {
+                "value": "48",
+                "text": "Texas"
+            },
+            {
+                "value": "49",
+                "text": "Utah"
+            },
+            {
+                "value": "50",
+                "text": "Vermont"
+            },
+            {
+                "value": "51",
+                "text": "Virginia"
+            },
+            {
+                "value": "53",
+                "text": "Washington"
+            },
+            {
+                "value": "54",
+                "text": "West Virginia"
+            },
+            {
+                "value": "55",
+                "text": "Wisconsin"
+            },
+            {
+                "value": "56",
+                "text": "Wyoming"
+            },
+            {
+                "value": "72",
+                "text": "Puerto Rico"
+            }
+        ]
+    },
+    "initial_task_ids": {
+        "location": "US"
+    },
+    "intervals": [
+        "0%",
+        "50%",
+        "95%"
+    ],
+    "initial_interval": "95%",
+    "available_as_ofs": {
+        "wk inc flu hosp": [
+            "2023-10-07",
+            "2023-10-14",
+            "2023-10-21",
+            "2023-10-28",
+            "2023-11-04",
+            "2023-11-11",
+            "2023-11-18",
+            "2023-11-25",
+            "2023-12-02",
+            "2023-12-09",
+            "2023-12-16",
+            "2023-12-23",
+            "2023-12-30",
+            "2024-01-06",
+            "2024-01-13",
+            "2024-01-20",
+            "2024-01-27",
+            "2024-02-03",
+            "2024-02-10",
+            "2024-02-17",
+            "2024-02-24",
+            "2024-03-02",
+            "2024-03-09",
+            "2024-03-16",
+            "2024-03-23",
+            "2024-03-30",
+            "2024-04-06",
+            "2024-04-13",
+            "2024-04-20",
+            "2024-04-27",
+            "2024-05-04",
+            "2024-11-23",
+            "2024-11-30",
+            "2024-12-07",
+            "2024-12-14"
+        ]
+    },
+    "initial_as_of": "2024-12-14",
+    "current_date": "2024-12-14",
+    "models": [
+        "CADPH-FluCAT_Ensemble",
+        "CEPH-Rtrend_fluH",
+        "CMU-TimeSeries",
+        "CU-ensemble",
+        "GT-FluFNP",
+        "Gatech-ensemble_point",
+        "Gatech-ensemble_prob",
+        "ISU_NiemiLab-GPE",
+        "ISU_NiemiLab-NLH",
+        "JHUAPL-DMD",
+        "JHU_CSSE-CSSE_Ensemble",
+        "LUcompUncertLab-chimera",
+        "LosAlamos_NAU-CModel_Flu",
+        "MDPredict-SIRS",
+        "MIGHTE-Joint",
+        "MIGHTE-Nsemble",
+        "MOBS-GLEAM_FLUH",
+        "Metaculus-cp",
+        "NEU_ISI-AdaptiveEnsemble",
+        "NEU_ISI-FluBcast",
+        "NIH-Flu_ARIMA",
+        "NU_UCSD-GLEAM_AI_FLUH",
+        "OHT_JHU-nbxd",
+        "PSI-PROF",
+        "PSI-PROF_beta",
+        "SGroup-RandomForest",
+        "SigSci-BECAM",
+        "SigSci-CREG",
+        "SigSci-TSENS",
+        "Stevens-GBR",
+        "Stevens-ILIForecast",
+        "UGA_CEID-Walk",
+        "UGA_flucast-Copycat",
+        "UGA_flucast-INFLAenza",
+        "UGuelph-CompositeCurve",
+        "UGuelphensemble-GRYPHON",
+        "UI_CompEpi-EpiGen",
+        "UM-DeepOutbreak",
+        "UMass-flusion",
+        "UMass-trends_ensemble",
+        "UNC_IDD-InfluPaint",
+        "UVAFluX-Ensemble",
+        "VTSanghani-Ensemble",
+        "VTSanghani-PRIME",
+        "cfa-flumech",
+        "cfarenewal-cfaepimlight",
+        "fjordhest-ensemble"
+    ],
+    "initial_checked_models": [
+        "UMass-flusion",
+        "UMass-trends_ensemble"
+    ],
+    "disclaimer": "This is a disclaimer. It presents important information for your stakeholders.",
+    "initial_xaxis_range": null
+}
