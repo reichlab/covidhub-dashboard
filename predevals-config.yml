@@ -1,5 +1,5 @@
 targets:
-- target_id: wk inc flu hosp
+- target_id: wk inc covid hosp
   metrics:
   - wis
   - ae_median
@@ -8,7 +8,7 @@ targets:
   relative_metrics:
   - wis
   - ae_median
-  baseline: FluSight-baseline
+  baseline: CovidHub-baseline
   disaggregate_by:
   - location
   - reference_date
