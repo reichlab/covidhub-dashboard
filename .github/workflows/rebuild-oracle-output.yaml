@@ -1,0 +1,39 @@
+name: "Rebuild oracle output"
+on:
+  schedule:
+    - cron: "33 15 * * 4" # every Thursday at 3:45PM UTC == 10:33AM EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  oracle-output:
+    name: "Build oracle output"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: checkout dashboard repo, oracle-data branch
+        uses: actions/checkout@v2
+        with:
+          repository: "reichlab/covidhub-dashboard"
+          ref: "oracle-data"
+      
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 4.4.1
+          install-r: true
+
+      - name: build oracle output
+        run: |
+          Rscript create-oracle-data.R
+
+      - name: commit and push oracle output to oracle-data branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add oracle-output.csv
+          git commit -m "Update oracle output"
+          git push origin oracle-data
