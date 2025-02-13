@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "33 17 * * 4" # every Thursday at 5:45PM UTC == 12:33PM EST
   workflow_dispatch:
-  workflow_dispatch:
     inputs:
       regenerate:
         description: "(Forecast) Regenerate previously-recorded model output data?"
