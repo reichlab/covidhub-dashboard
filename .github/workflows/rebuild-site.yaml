@@ -1,39 +1,26 @@
 name: "Rebuild Site"
 on:
   workflow_dispatch:
+    inputs:
+      publish:
+        description: "Push Data to branch (uncheck for a dry run)"
+        type: boolean
+        required: false
+        default: true
+  push:
 
 permissions:
   contents: write
 
 jobs:
-  setup:
-    name: "Setup"
-    runs-on: "ubuntu-latest"
-    outputs:
-      repo: ${{ steps.echo.outputs.repo }}
-      email: ${{ steps.echo.outputs.email }}
-      slug: ${{ steps.echo.outputs.slug }}
-    steps:
-      - id: echo
-        run: |
-          name="${{ github.event.repository.name }}"
-          owner="${{ github.event.repository.owner.login }}"
-          id="${{ github.event.repository.owner.id }}"
-          email="$id+$owner@users.noreply.github.com"
-          {
-            echo 'repo<<EOF'
-            echo [{'"'name'"': '"'$name'"', '"'owner'"': '"'$owner'"'}]
-            echo EOF
-          } >> "$GITHUB_OUTPUT"
-          echo slug=$owner >> "$GITHUB_OUTPUT"
-          echo email=$email >> "$GITHUB_OUTPUT"
   site:
-    needs: [setup]
     uses: hubverse-org/hub-dashboard-control-room/.github/workflows/generate-site.yaml@main
     with:
-      repos: '${{ needs.setup.outputs.repo }}'
-      slug: '${{ needs.setup.outputs.slug }}'
-      email: '${{ needs.setup.outputs.email }}'
+      owner: '${{ github.event.repository.owner.login }}'
+      name: '${{ github.event.repository.name }}'
+      slug: '${{ github.event.repository.owner.login }}'
+      email: '${{ github.event.repository.owner.id }}+${{ github.event.repository.owner.login }}@users.noreply.github.com'
+      publish: ${{ inputs.publish || github.event_name != 'workflow_dispatch'}}
     secrets:
       id: 'none'
       key: ${{ secrets.GITHUB_TOKEN }}
