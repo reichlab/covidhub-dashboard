@@ -256,6 +256,7 @@
     "current_date": "2025-03-08",
     "models": [
         "CEPH-Rtrend_covid",
+        "CFA_Pyrenew-Pyrenew_HE_COVID",
         "CMU-TimeSeries",
         "CovidHub-baseline",
         "CovidHub-ensemble",
@@ -264,6 +265,7 @@
         "Metaculus-cp",
         "NEU_ISI-AdaptiveEnsemble",
         "OHT_JHU-nbxd",
+        "UGA_flucast-INFLAenza",
         "UM-DeepOutbreak",
         "UMass-ar6_pooled",
         "UMass-gbqr"
