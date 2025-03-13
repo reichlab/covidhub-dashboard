@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "forecast.html",
+    "href": "forecast.html",
+    "title": "COVID-19 Forecast Hub Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "eval.html",
+    "href": "eval.html",
+    "title": "COVID-19 Forecast Hub Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a dashboard for the COVID-19 Forecast Hub, which launched in November, 2024 and is being led by the US CDC. From April, 2020 through April, 2024, the Reich Lab at UMass, Amherst led the previous version of the COVID-19 Forecast Hub.\n\nView The Latest Forecasts\n\nThe target data for the COVID-19 Forecast Hub is hospitalizations with COVID-19 as reported to the National Healthcare Safety Network (NHSN); this data is publicly available through the CDC’s Weekly Hospital Respiratory Data (HRD) Metrics dataset.\nFor the evaluations, we have excluded predictions for two reference dates that were substantively impacted by NHSN reporting issues: 2024-11-23 and 2025-01-25.\n\n\n\n\n\n\nNote\n\n\n\nThe CDC notes that:\n\nData for reporting dates through April 30, 2024 represent data reported during a previous mandated reporting period as specified by the HHS Secretary. Data for reporting dates May 1, 2024–October 31, 2024 represent voluntarily reported data in the absence of a mandate. Data for reporting dates beginning November 1, 2024 represent data reported during a current mandated reporting period."
+  }
+]
