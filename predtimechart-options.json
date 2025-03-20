@@ -262,6 +262,7 @@
         "CMU-TimeSeries",
         "CovidHub-baseline",
         "CovidHub-ensemble",
+        "Google_SAI-Ensemble",
         "JHU_CSSE-CSSE_Ensemble",
         "MOBS-GLEAM_COVID",
         "Metaculus-cp",
