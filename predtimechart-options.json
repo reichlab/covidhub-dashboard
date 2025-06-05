@@ -263,11 +263,12 @@
             "2025-05-10",
             "2025-05-17",
             "2025-05-24",
-            "2025-05-31"
+            "2025-05-31",
+            "2025-06-07"
         ]
     },
-    "initial_as_of": "2025-05-31",
-    "current_date": "2025-05-31",
+    "initial_as_of": "2025-06-07",
+    "current_date": "2025-06-07",
     "models": [
         "CEPH-Rtrend_covid",
         "CFA_Pyrenew-Pyrenew_HE_COVID",
