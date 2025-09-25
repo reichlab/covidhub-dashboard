@@ -500,7 +500,8 @@
             "2025-08-30",
             "2025-09-06",
             "2025-09-13",
-            "2025-09-20"
+            "2025-09-20",
+            "2025-09-27"
         ],
         "wk inc covid prop ed visits": [
             "2025-06-21",
@@ -516,11 +517,12 @@
             "2025-08-30",
             "2025-09-06",
             "2025-09-13",
-            "2025-09-20"
+            "2025-09-20",
+            "2025-09-27"
         ]
     },
-    "initial_as_of": "2025-09-20",
-    "current_date": "2025-09-20",
+    "initial_as_of": "2025-09-27",
+    "current_date": "2025-09-27",
     "models": [
         "CEPH-Rtrend_covid",
         "CFA-EpiAutoGP",
@@ -546,20 +548,20 @@
     "model_urls": {
         "MOBS-GLEAM_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_COVID.yml",
         "UMass-ar6_pooled": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-ar6_pooled.yml",
-        "CEPH-Rtrend_covid": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CEPH-Rtrend_covid.yml",
-        "UGA_flucast-INFLAenza": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UGA_flucast-INFLAenza.yml",
+        "NEU_ISI-AdaptiveEnsemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/NEU_ISI-AdaptiveEnsemble.yml",
+        "UM-DeepOutbreak": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UM-DeepOutbreak.yml",
+        "UMass-gbqr": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-gbqr.yml",
+        "JHU_CSSE-CSSE_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/JHU_CSSE-CSSE_Ensemble.yml",
         "OHT_JHU-nbxd": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/OHT_JHU-nbxd.yml",
         "Google_SAI-Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Google_SAI-Ensemble.yml",
-        "JHU_CSSE-CSSE_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/JHU_CSSE-CSSE_Ensemble.yml",
-        "UMass-gbqr": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-gbqr.yml",
-        "UM-DeepOutbreak": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UM-DeepOutbreak.yml",
-        "NEU_ISI-AdaptiveEnsemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/NEU_ISI-AdaptiveEnsemble.yml",
+        "CEPH-Rtrend_covid": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CEPH-Rtrend_covid.yml",
+        "UGA_flucast-INFLAenza": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UGA_flucast-INFLAenza.yml",
         "CMU-TimeSeries": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CMU-TimeSeries.yml",
-        "CFA-EpiAutoGP": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA-EpiAutoGP.yaml",
-        "CFA_Pyrenew-Pyrenew_HE_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA_Pyrenew-Pyrenew_HE_COVID.yaml",
         "CovidHub-baseline": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CovidHub-baseline.yaml",
         "Metaculus-cp": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Metaculus-cp.yaml",
-        "CovidHub-ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CovidHub-ensemble.yaml"
+        "CovidHub-ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CovidHub-ensemble.yaml",
+        "CFA_Pyrenew-Pyrenew_HE_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA_Pyrenew-Pyrenew_HE_COVID.yaml",
+        "CFA-EpiAutoGP": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA-EpiAutoGP.yaml"
     },
     "initial_xaxis_range": null
 }
