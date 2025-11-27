@@ -505,7 +505,8 @@
             "2025-10-04",
             "2025-10-11",
             "2025-10-18",
-            "2025-11-22"
+            "2025-11-22",
+            "2025-11-29"
         ],
         "wk inc covid prop ed visits": [
             "2025-06-21",
@@ -526,12 +527,14 @@
             "2025-10-04",
             "2025-10-11",
             "2025-10-18",
-            "2025-11-22"
+            "2025-11-22",
+            "2025-11-29"
         ]
     },
-    "initial_as_of": "2025-11-22",
-    "current_date": "2025-11-22",
+    "initial_as_of": "2025-11-29",
+    "current_date": "2025-11-29",
     "models": [
+        "CADPH-CovidCAT_Ensemble",
         "CEPH-Rtrend_covid",
         "CFA-EpiAutoGP",
         "CFA_Pyrenew-Pyrenew_HE_COVID",
@@ -560,6 +563,7 @@
         "UM-DeepOutbreak": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UM-DeepOutbreak.yml",
         "UMass-gbqr": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-gbqr.yml",
         "JHU_CSSE-CSSE_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/JHU_CSSE-CSSE_Ensemble.yml",
+        "CADPH-CovidCAT_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CADPH-CovidCAT_Ensemble.yml",
         "OHT_JHU-nbxd": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/OHT_JHU-nbxd.yml",
         "Google_SAI-Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Google_SAI-Ensemble.yml",
         "CEPH-Rtrend_covid": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CEPH-Rtrend_covid.yml",
