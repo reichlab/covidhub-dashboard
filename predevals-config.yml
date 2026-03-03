@@ -16,6 +16,17 @@ targets:
   - reference_date
   - horizon
   - target_end_date
+- target_id: wk inc covid prop ed visits
+  metrics:
+  - wis
+  - ae_median
+  - interval_coverage_50
+  - interval_coverage_95
+  disaggregate_by:
+  - location
+  - reference_date
+  - horizon
+  - target_end_date
 eval_sets:
 - eval_set_name: Overall, state level
   round_filters:
