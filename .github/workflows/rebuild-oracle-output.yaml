@@ -24,6 +24,10 @@ jobs:
           r-version: 4.4.1
           install-r: true
 
+      - name: install R packages
+        run: |
+          Rscript -e "install.packages('arrow')
+
       - name: build oracle output
         run: |
           Rscript create-oracle-data.R
