@@ -26,7 +26,7 @@ jobs:
 
       - name: install R packages
         run: |
-          Rscript -e "install.packages('arrow')
+          Rscript -e "install.packages('arrow')"
 
       - name: build oracle output
         run: |
