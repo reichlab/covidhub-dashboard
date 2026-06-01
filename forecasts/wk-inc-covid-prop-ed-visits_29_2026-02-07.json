@@ -1,5 +1,5 @@
 {
-    "CovidHub-ensemble": {
+    "CFA_Pyrenew-Pyrenew_HE_COVID": {
         "target_end_date": [
             "2026-02-07",
             "2026-02-14"
@@ -25,7 +25,7 @@
             0.01497901504106242
         ]
     },
-    "CFA_Pyrenew-Pyrenew_HE_COVID": {
+    "CovidHub-ensemble": {
         "target_end_date": [
             "2026-02-07",
             "2026-02-14"
