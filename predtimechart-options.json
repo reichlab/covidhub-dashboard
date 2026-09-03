@@ -546,7 +546,8 @@
             "2026-08-08",
             "2026-08-15",
             "2026-08-22",
-            "2026-08-29"
+            "2026-08-29",
+            "2026-09-05"
         ],
         "wk inc covid prop ed visits": [
             "2025-06-21",
@@ -607,11 +608,12 @@
             "2026-08-08",
             "2026-08-15",
             "2026-08-22",
-            "2026-08-29"
+            "2026-08-29",
+            "2026-09-05"
         ]
     },
-    "initial_as_of": "2026-08-29",
-    "current_date": "2026-08-29",
+    "initial_as_of": "2026-09-05",
+    "current_date": "2026-09-05",
     "models": [
         "CovidHub-baseline",
         "CovidHub-ensemble",
@@ -637,24 +639,24 @@
         "CovidHub-baseline"
     ],
     "model_urls": {
-        "UMass-ar6_pooled": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-ar6_pooled.yml",
-        "CADPH-CovidCAT_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CADPH-CovidCAT_Ensemble.yml",
-        "MOBS-GLEAM_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_COVID.yml",
         "CMU-TimeSeries": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CMU-TimeSeries.yml",
+        "OHT_JHU-nbxd": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/OHT_JHU-nbxd.yml",
+        "UMass-gbqr": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-gbqr.yml",
+        "CEPH-Rtrend_covid": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CEPH-Rtrend_covid.yml",
+        "UMass-ar6_pooled": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-ar6_pooled.yml",
         "UM-DeepOutbreak": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UM-DeepOutbreak.yml",
         "UGA_flucast-INFLAenza": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UGA_flucast-INFLAenza.yml",
-        "JHU_CSSE-CSSE_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/JHU_CSSE-CSSE_Ensemble.yml",
+        "MOBS-GLEAM_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_COVID.yml",
         "Google_SAI-Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Google_SAI-Ensemble.yml",
-        "CEPH-Rtrend_covid": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CEPH-Rtrend_covid.yml",
-        "UMass-gbqr": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-gbqr.yml",
+        "JHU_CSSE-CSSE_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/JHU_CSSE-CSSE_Ensemble.yml",
+        "CADPH-CovidCAT_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CADPH-CovidCAT_Ensemble.yml",
         "NEU_ISI-AdaptiveEnsemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/NEU_ISI-AdaptiveEnsemble.yml",
-        "OHT_JHU-nbxd": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/OHT_JHU-nbxd.yml",
-        "CFA-EpiAutoGP": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA-EpiAutoGP.yaml",
-        "Metaculus-cp": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Metaculus-cp.yaml",
         "CFA_Pyrenew-Pyrenew_E_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA_Pyrenew-Pyrenew_E_COVID.yaml",
+        "CovidHub-ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CovidHub-ensemble.yaml",
         "CovidHub-baseline": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CovidHub-baseline.yaml",
+        "CFA-EpiAutoGP": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA-EpiAutoGP.yaml",
         "CFA_Pyrenew-Pyrenew_HE_COVID": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CFA_Pyrenew-Pyrenew_HE_COVID.yaml",
-        "CovidHub-ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/CovidHub-ensemble.yaml"
+        "Metaculus-cp": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Metaculus-cp.yaml"
     },
     "initial_xaxis_range": null
 }
