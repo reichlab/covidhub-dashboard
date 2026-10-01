@@ -550,7 +550,8 @@
             "2026-09-05",
             "2026-09-12",
             "2026-09-19",
-            "2026-09-26"
+            "2026-09-26",
+            "2026-10-03"
         ],
         "wk inc covid prop ed visits": [
             "2025-06-21",
@@ -615,11 +616,12 @@
             "2026-09-05",
             "2026-09-12",
             "2026-09-19",
-            "2026-09-26"
+            "2026-09-26",
+            "2026-10-03"
         ]
     },
-    "initial_as_of": "2026-09-26",
-    "current_date": "2026-09-26",
+    "initial_as_of": "2026-10-03",
+    "current_date": "2026-10-03",
     "models": [
         "CovidHub-baseline",
         "CovidHub-ensemble",
@@ -642,7 +644,8 @@
         "UM-DeepOutbreak",
         "UMass-ar6_pooled",
         "UMass-gbqr",
-        "ZJU_LeiLab-MPUDE_ens"
+        "ZJU_LeiLab-MPUDE_ens",
+        "docxology-analog"
     ],
     "initial_checked_models": [
         "CovidHub-ensemble",
@@ -650,6 +653,7 @@
     ],
     "model_urls": {
         "JHU_CSSE-CSSE_Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/JHU_CSSE-CSSE_Ensemble.yml",
+        "docxology-analog": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/docxology-analog.yml",
         "UM-DeepOutbreak": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UM-DeepOutbreak.yml",
         "UMass-gbqr": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/UMass-gbqr.yml",
         "Google_SAI-Ensemble": "https://github.com/CDCgov/covid19-forecast-hub/blob/main/model-metadata/Google_SAI-Ensemble.yml",
