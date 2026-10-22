@@ -158,7 +158,7 @@
 "55",2024-11-23,"wk inc covid hosp","quantile",154,NA
 "56",2024-11-23,"wk inc covid hosp","quantile",33,NA
 "72",2024-11-23,"wk inc covid hosp","quantile",58,NA
-"US",2024-11-30,"wk inc covid hosp","quantile",7901,NA
+"US",2024-11-30,"wk inc covid hosp","quantile",7900,NA
 "01",2024-11-30,"wk inc covid hosp","quantile",90,NA
 "02",2024-11-30,"wk inc covid hosp","quantile",6,NA
 "04",2024-11-30,"wk inc covid hosp","quantile",757,NA
@@ -203,7 +203,7 @@
 "46",2024-11-30,"wk inc covid hosp","quantile",21,NA
 "47",2024-11-30,"wk inc covid hosp","quantile",144,NA
 "48",2024-11-30,"wk inc covid hosp","quantile",285,NA
-"49",2024-11-30,"wk inc covid hosp","quantile",59,NA
+"49",2024-11-30,"wk inc covid hosp","quantile",58,NA
 "50",2024-11-30,"wk inc covid hosp","quantile",12,NA
 "51",2024-11-30,"wk inc covid hosp","quantile",107,NA
 "53",2024-11-30,"wk inc covid hosp","quantile",78,NA
@@ -683,7 +683,7 @@
 "55",2024-11-23,"wk inc covid hosp","sample",154,NA
 "56",2024-11-23,"wk inc covid hosp","sample",33,NA
 "72",2024-11-23,"wk inc covid hosp","sample",58,NA
-"US",2024-11-30,"wk inc covid hosp","sample",7901,NA
+"US",2024-11-30,"wk inc covid hosp","sample",7900,NA
 "01",2024-11-30,"wk inc covid hosp","sample",90,NA
 "02",2024-11-30,"wk inc covid hosp","sample",6,NA
 "04",2024-11-30,"wk inc covid hosp","sample",757,NA
@@ -728,7 +728,7 @@
 "46",2024-11-30,"wk inc covid hosp","sample",21,NA
 "47",2024-11-30,"wk inc covid hosp","sample",144,NA
 "48",2024-11-30,"wk inc covid hosp","sample",285,NA
-"49",2024-11-30,"wk inc covid hosp","sample",59,NA
+"49",2024-11-30,"wk inc covid hosp","sample",58,NA
 "50",2024-11-30,"wk inc covid hosp","sample",12,NA
 "51",2024-11-30,"wk inc covid hosp","sample",107,NA
 "53",2024-11-30,"wk inc covid hosp","sample",78,NA
@@ -5459,7 +5459,7 @@
 "54",2025-05-03,"wk inc covid prop ed visits","sample",0.0015,NA
 "55",2025-05-03,"wk inc covid prop ed visits","sample",0.0036,NA
 "56",2025-05-03,"wk inc covid prop ed visits","sample",0.002,NA
-"US",2025-05-10,"wk inc covid hosp","quantile",4162,NA
+"US",2025-05-10,"wk inc covid hosp","quantile",4161,NA
 "01",2025-05-10,"wk inc covid hosp","quantile",65,NA
 "02",2025-05-10,"wk inc covid hosp","quantile",9,NA
 "04",2025-05-10,"wk inc covid hosp","quantile",77,NA
@@ -5504,7 +5504,7 @@
 "46",2025-05-10,"wk inc covid hosp","quantile",6,NA
 "47",2025-05-10,"wk inc covid hosp","quantile",66,NA
 "48",2025-05-10,"wk inc covid hosp","quantile",310,NA
-"49",2025-05-10,"wk inc covid hosp","quantile",20,NA
+"49",2025-05-10,"wk inc covid hosp","quantile",19,NA
 "50",2025-05-10,"wk inc covid hosp","quantile",4,NA
 "51",2025-05-10,"wk inc covid hosp","quantile",65,NA
 "53",2025-05-10,"wk inc covid hosp","quantile",65,NA
@@ -5564,7 +5564,7 @@
 "54",2025-05-10,"wk inc covid prop ed visits","quantile",0.0019,NA
 "55",2025-05-10,"wk inc covid prop ed visits","quantile",0.0028,NA
 "56",2025-05-10,"wk inc covid prop ed visits","quantile",0.0024,NA
-"US",2025-05-10,"wk inc covid hosp","sample",4162,NA
+"US",2025-05-10,"wk inc covid hosp","sample",4161,NA
 "01",2025-05-10,"wk inc covid hosp","sample",65,NA
 "02",2025-05-10,"wk inc covid hosp","sample",9,NA
 "04",2025-05-10,"wk inc covid hosp","sample",77,NA
@@ -5609,7 +5609,7 @@
 "46",2025-05-10,"wk inc covid hosp","sample",6,NA
 "47",2025-05-10,"wk inc covid hosp","sample",66,NA
 "48",2025-05-10,"wk inc covid hosp","sample",310,NA
-"49",2025-05-10,"wk inc covid hosp","sample",20,NA
+"49",2025-05-10,"wk inc covid hosp","sample",19,NA
 "50",2025-05-10,"wk inc covid hosp","sample",4,NA
 "51",2025-05-10,"wk inc covid hosp","sample",65,NA
 "53",2025-05-10,"wk inc covid hosp","sample",65,NA
@@ -9869,7 +9869,7 @@
 "54",2025-09-27,"wk inc covid prop ed visits","sample",0.0088,NA
 "55",2025-09-27,"wk inc covid prop ed visits","sample",0.0074,NA
 "56",2025-09-27,"wk inc covid prop ed visits","sample",0.0106,NA
-"US",2025-10-04,"wk inc covid hosp","quantile",6423,NA
+"US",2025-10-04,"wk inc covid hosp","quantile",6422,NA
 "01",2025-10-04,"wk inc covid hosp","quantile",86,NA
 "02",2025-10-04,"wk inc covid hosp","quantile",5,NA
 "04",2025-10-04,"wk inc covid hosp","quantile",106,NA
@@ -9914,7 +9914,7 @@
 "46",2025-10-04,"wk inc covid hosp","quantile",21,NA
 "47",2025-10-04,"wk inc covid hosp","quantile",99,NA
 "48",2025-10-04,"wk inc covid hosp","quantile",409,NA
-"49",2025-10-04,"wk inc covid hosp","quantile",12,NA
+"49",2025-10-04,"wk inc covid hosp","quantile",11,NA
 "50",2025-10-04,"wk inc covid hosp","quantile",11,NA
 "51",2025-10-04,"wk inc covid hosp","quantile",121,NA
 "53",2025-10-04,"wk inc covid hosp","quantile",191,NA
@@ -9974,7 +9974,7 @@
 "54",2025-10-04,"wk inc covid prop ed visits","quantile",0.0056,NA
 "55",2025-10-04,"wk inc covid prop ed visits","quantile",0.005,NA
 "56",2025-10-04,"wk inc covid prop ed visits","quantile",0.0078,NA
-"US",2025-10-04,"wk inc covid hosp","sample",6423,NA
+"US",2025-10-04,"wk inc covid hosp","sample",6422,NA
 "01",2025-10-04,"wk inc covid hosp","sample",86,NA
 "02",2025-10-04,"wk inc covid hosp","sample",5,NA
 "04",2025-10-04,"wk inc covid hosp","sample",106,NA
@@ -10019,7 +10019,7 @@
 "46",2025-10-04,"wk inc covid hosp","sample",21,NA
 "47",2025-10-04,"wk inc covid hosp","sample",99,NA
 "48",2025-10-04,"wk inc covid hosp","sample",409,NA
-"49",2025-10-04,"wk inc covid hosp","sample",12,NA
+"49",2025-10-04,"wk inc covid hosp","sample",11,NA
 "50",2025-10-04,"wk inc covid hosp","sample",11,NA
 "51",2025-10-04,"wk inc covid hosp","sample",121,NA
 "53",2025-10-04,"wk inc covid hosp","sample",191,NA
@@ -10079,7 +10079,7 @@
 "54",2025-10-04,"wk inc covid prop ed visits","sample",0.0056,NA
 "55",2025-10-04,"wk inc covid prop ed visits","sample",0.005,NA
 "56",2025-10-04,"wk inc covid prop ed visits","sample",0.0078,NA
-"US",2025-10-11,"wk inc covid hosp","quantile",5245,NA
+"US",2025-10-11,"wk inc covid hosp","quantile",5244,NA
 "01",2025-10-11,"wk inc covid hosp","quantile",68,NA
 "02",2025-10-11,"wk inc covid hosp","quantile",4,NA
 "04",2025-10-11,"wk inc covid hosp","quantile",91,NA
@@ -10124,7 +10124,7 @@
 "46",2025-10-11,"wk inc covid hosp","quantile",23,NA
 "47",2025-10-11,"wk inc covid hosp","quantile",89,NA
 "48",2025-10-11,"wk inc covid hosp","quantile",329,NA
-"49",2025-10-11,"wk inc covid hosp","quantile",9,NA
+"49",2025-10-11,"wk inc covid hosp","quantile",8,NA
 "50",2025-10-11,"wk inc covid hosp","quantile",10,NA
 "51",2025-10-11,"wk inc covid hosp","quantile",84,NA
 "53",2025-10-11,"wk inc covid hosp","quantile",155,NA
@@ -10184,7 +10184,7 @@
 "54",2025-10-11,"wk inc covid prop ed visits","quantile",0.0057,NA
 "55",2025-10-11,"wk inc covid prop ed visits","quantile",0.0038,NA
 "56",2025-10-11,"wk inc covid prop ed visits","quantile",0.0064,NA
-"US",2025-10-11,"wk inc covid hosp","sample",5245,NA
+"US",2025-10-11,"wk inc covid hosp","sample",5244,NA
 "01",2025-10-11,"wk inc covid hosp","sample",68,NA
 "02",2025-10-11,"wk inc covid hosp","sample",4,NA
 "04",2025-10-11,"wk inc covid hosp","sample",91,NA
@@ -10229,7 +10229,7 @@
 "46",2025-10-11,"wk inc covid hosp","sample",23,NA
 "47",2025-10-11,"wk inc covid hosp","sample",89,NA
 "48",2025-10-11,"wk inc covid hosp","sample",329,NA
-"49",2025-10-11,"wk inc covid hosp","sample",9,NA
+"49",2025-10-11,"wk inc covid hosp","sample",8,NA
 "50",2025-10-11,"wk inc covid hosp","sample",10,NA
 "51",2025-10-11,"wk inc covid hosp","sample",84,NA
 "53",2025-10-11,"wk inc covid hosp","sample",155,NA
@@ -10289,7 +10289,7 @@
 "54",2025-10-11,"wk inc covid prop ed visits","sample",0.0057,NA
 "55",2025-10-11,"wk inc covid prop ed visits","sample",0.0038,NA
 "56",2025-10-11,"wk inc covid prop ed visits","sample",0.0064,NA
-"US",2025-10-18,"wk inc covid hosp","quantile",4341,NA
+"US",2025-10-18,"wk inc covid hosp","quantile",4340,NA
 "01",2025-10-18,"wk inc covid hosp","quantile",71,NA
 "02",2025-10-18,"wk inc covid hosp","quantile",5,NA
 "04",2025-10-18,"wk inc covid hosp","quantile",88,NA
@@ -10334,7 +10334,7 @@
 "46",2025-10-18,"wk inc covid hosp","quantile",11,NA
 "47",2025-10-18,"wk inc covid hosp","quantile",89,NA
 "48",2025-10-18,"wk inc covid hosp","quantile",272,NA
-"49",2025-10-18,"wk inc covid hosp","quantile",7,NA
+"49",2025-10-18,"wk inc covid hosp","quantile",6,NA
 "50",2025-10-18,"wk inc covid hosp","quantile",9,NA
 "51",2025-10-18,"wk inc covid hosp","quantile",80,NA
 "53",2025-10-18,"wk inc covid hosp","quantile",107,NA
@@ -10394,7 +10394,7 @@
 "54",2025-10-18,"wk inc covid prop ed visits","quantile",0.005,NA
 "55",2025-10-18,"wk inc covid prop ed visits","quantile",0.0024,NA
 "56",2025-10-18,"wk inc covid prop ed visits","quantile",0.0058,NA
-"US",2025-10-18,"wk inc covid hosp","sample",4341,NA
+"US",2025-10-18,"wk inc covid hosp","sample",4340,NA
 "01",2025-10-18,"wk inc covid hosp","sample",71,NA
 "02",2025-10-18,"wk inc covid hosp","sample",5,NA
 "04",2025-10-18,"wk inc covid hosp","sample",88,NA
@@ -10439,7 +10439,7 @@
 "46",2025-10-18,"wk inc covid hosp","sample",11,NA
 "47",2025-10-18,"wk inc covid hosp","sample",89,NA
 "48",2025-10-18,"wk inc covid hosp","sample",272,NA
-"49",2025-10-18,"wk inc covid hosp","sample",7,NA
+"49",2025-10-18,"wk inc covid hosp","sample",6,NA
 "50",2025-10-18,"wk inc covid hosp","sample",9,NA
 "51",2025-10-18,"wk inc covid hosp","sample",80,NA
 "53",2025-10-18,"wk inc covid hosp","sample",107,NA
@@ -10499,7 +10499,7 @@
 "54",2025-10-18,"wk inc covid prop ed visits","sample",0.005,NA
 "55",2025-10-18,"wk inc covid prop ed visits","sample",0.0024,NA
 "56",2025-10-18,"wk inc covid prop ed visits","sample",0.0058,NA
-"US",2025-10-25,"wk inc covid hosp","quantile",3650,NA
+"US",2025-10-25,"wk inc covid hosp","quantile",3649,NA
 "01",2025-10-25,"wk inc covid hosp","quantile",49,NA
 "02",2025-10-25,"wk inc covid hosp","quantile",2,NA
 "04",2025-10-25,"wk inc covid hosp","quantile",83,NA
@@ -10544,7 +10544,7 @@
 "46",2025-10-25,"wk inc covid hosp","quantile",8,NA
 "47",2025-10-25,"wk inc covid hosp","quantile",68,NA
 "48",2025-10-25,"wk inc covid hosp","quantile",226,NA
-"49",2025-10-25,"wk inc covid hosp","quantile",5,NA
+"49",2025-10-25,"wk inc covid hosp","quantile",4,NA
 "50",2025-10-25,"wk inc covid hosp","quantile",8,NA
 "51",2025-10-25,"wk inc covid hosp","quantile",60,NA
 "53",2025-10-25,"wk inc covid hosp","quantile",93,NA
@@ -10604,7 +10604,7 @@
 "54",2025-10-25,"wk inc covid prop ed visits","quantile",0.0046,NA
 "55",2025-10-25,"wk inc covid prop ed visits","quantile",0.0026,NA
 "56",2025-10-25,"wk inc covid prop ed visits","quantile",0.0052,NA
-"US",2025-10-25,"wk inc covid hosp","sample",3650,NA
+"US",2025-10-25,"wk inc covid hosp","sample",3649,NA
 "01",2025-10-25,"wk inc covid hosp","sample",49,NA
 "02",2025-10-25,"wk inc covid hosp","sample",2,NA
 "04",2025-10-25,"wk inc covid hosp","sample",83,NA
@@ -10649,7 +10649,7 @@
 "46",2025-10-25,"wk inc covid hosp","sample",8,NA
 "47",2025-10-25,"wk inc covid hosp","sample",68,NA
 "48",2025-10-25,"wk inc covid hosp","sample",226,NA
-"49",2025-10-25,"wk inc covid hosp","sample",5,NA
+"49",2025-10-25,"wk inc covid hosp","sample",4,NA
 "50",2025-10-25,"wk inc covid hosp","sample",8,NA
 "51",2025-10-25,"wk inc covid hosp","sample",60,NA
 "53",2025-10-25,"wk inc covid hosp","sample",93,NA
@@ -10709,7 +10709,7 @@
 "54",2025-10-25,"wk inc covid prop ed visits","sample",0.0046,NA
 "55",2025-10-25,"wk inc covid prop ed visits","sample",0.0026,NA
 "56",2025-10-25,"wk inc covid prop ed visits","sample",0.0052,NA
-"US",2025-11-01,"wk inc covid hosp","quantile",3427,NA
+"US",2025-11-01,"wk inc covid hosp","quantile",3426,NA
 "01",2025-11-01,"wk inc covid hosp","quantile",51,NA
 "02",2025-11-01,"wk inc covid hosp","quantile",10,NA
 "04",2025-11-01,"wk inc covid hosp","quantile",90,NA
@@ -10754,7 +10754,7 @@
 "46",2025-11-01,"wk inc covid hosp","quantile",15,NA
 "47",2025-11-01,"wk inc covid hosp","quantile",79,NA
 "48",2025-11-01,"wk inc covid hosp","quantile",211,NA
-"49",2025-11-01,"wk inc covid hosp","quantile",5,NA
+"49",2025-11-01,"wk inc covid hosp","quantile",4,NA
 "50",2025-11-01,"wk inc covid hosp","quantile",13,NA
 "51",2025-11-01,"wk inc covid hosp","quantile",70,NA
 "53",2025-11-01,"wk inc covid hosp","quantile",66,NA
@@ -10814,7 +10814,7 @@
 "54",2025-11-01,"wk inc covid prop ed visits","quantile",0.004,NA
 "55",2025-11-01,"wk inc covid prop ed visits","quantile",0.0025,NA
 "56",2025-11-01,"wk inc covid prop ed visits","quantile",0.0024,NA
-"US",2025-11-01,"wk inc covid hosp","sample",3427,NA
+"US",2025-11-01,"wk inc covid hosp","sample",3426,NA
 "01",2025-11-01,"wk inc covid hosp","sample",51,NA
 "02",2025-11-01,"wk inc covid hosp","sample",10,NA
 "04",2025-11-01,"wk inc covid hosp","sample",90,NA
@@ -10859,7 +10859,7 @@
 "46",2025-11-01,"wk inc covid hosp","sample",15,NA
 "47",2025-11-01,"wk inc covid hosp","sample",79,NA
 "48",2025-11-01,"wk inc covid hosp","sample",211,NA
-"49",2025-11-01,"wk inc covid hosp","sample",5,NA
+"49",2025-11-01,"wk inc covid hosp","sample",4,NA
 "50",2025-11-01,"wk inc covid hosp","sample",13,NA
 "51",2025-11-01,"wk inc covid hosp","sample",70,NA
 "53",2025-11-01,"wk inc covid hosp","sample",66,NA
@@ -10919,7 +10919,7 @@
 "54",2025-11-01,"wk inc covid prop ed visits","sample",0.004,NA
 "55",2025-11-01,"wk inc covid prop ed visits","sample",0.0025,NA
 "56",2025-11-01,"wk inc covid prop ed visits","sample",0.0024,NA
-"US",2025-11-08,"wk inc covid hosp","quantile",3329,NA
+"US",2025-11-08,"wk inc covid hosp","quantile",3328,NA
 "01",2025-11-08,"wk inc covid hosp","quantile",45,NA
 "02",2025-11-08,"wk inc covid hosp","quantile",18,NA
 "04",2025-11-08,"wk inc covid hosp","quantile",76,NA
@@ -10964,7 +10964,7 @@
 "46",2025-11-08,"wk inc covid hosp","quantile",13,NA
 "47",2025-11-08,"wk inc covid hosp","quantile",81,NA
 "48",2025-11-08,"wk inc covid hosp","quantile",198,NA
-"49",2025-11-08,"wk inc covid hosp","quantile",5,NA
+"49",2025-11-08,"wk inc covid hosp","quantile",4,NA
 "50",2025-11-08,"wk inc covid hosp","quantile",4,NA
 "51",2025-11-08,"wk inc covid hosp","quantile",49,NA
 "53",2025-11-08,"wk inc covid hosp","quantile",51,NA
@@ -11024,7 +11024,7 @@
 "54",2025-11-08,"wk inc covid prop ed visits","quantile",0.005,NA
 "55",2025-11-08,"wk inc covid prop ed visits","quantile",0.0027,NA
 "56",2025-11-08,"wk inc covid prop ed visits","quantile",0.0066,NA
-"US",2025-11-08,"wk inc covid hosp","sample",3329,NA
+"US",2025-11-08,"wk inc covid hosp","sample",3328,NA
 "01",2025-11-08,"wk inc covid hosp","sample",45,NA
 "02",2025-11-08,"wk inc covid hosp","sample",18,NA
 "04",2025-11-08,"wk inc covid hosp","sample",76,NA
@@ -11069,7 +11069,7 @@
 "46",2025-11-08,"wk inc covid hosp","sample",13,NA
 "47",2025-11-08,"wk inc covid hosp","sample",81,NA
 "48",2025-11-08,"wk inc covid hosp","sample",198,NA
-"49",2025-11-08,"wk inc covid hosp","sample",5,NA
+"49",2025-11-08,"wk inc covid hosp","sample",4,NA
 "50",2025-11-08,"wk inc covid hosp","sample",4,NA
 "51",2025-11-08,"wk inc covid hosp","sample",49,NA
 "53",2025-11-08,"wk inc covid hosp","sample",51,NA
@@ -11129,7 +11129,7 @@
 "54",2025-11-08,"wk inc covid prop ed visits","sample",0.005,NA
 "55",2025-11-08,"wk inc covid prop ed visits","sample",0.0027,NA
 "56",2025-11-08,"wk inc covid prop ed visits","sample",0.0066,NA
-"US",2025-11-15,"wk inc covid hosp","quantile",3415,NA
+"US",2025-11-15,"wk inc covid hosp","quantile",3414,NA
 "01",2025-11-15,"wk inc covid hosp","quantile",56,NA
 "02",2025-11-15,"wk inc covid hosp","quantile",5,NA
 "04",2025-11-15,"wk inc covid hosp","quantile",80,NA
@@ -11174,7 +11174,7 @@
 "46",2025-11-15,"wk inc covid hosp","quantile",12,NA
 "47",2025-11-15,"wk inc covid hosp","quantile",78,NA
 "48",2025-11-15,"wk inc covid hosp","quantile",176,NA
-"49",2025-11-15,"wk inc covid hosp","quantile",14,NA
+"49",2025-11-15,"wk inc covid hosp","quantile",13,NA
 "50",2025-11-15,"wk inc covid hosp","quantile",14,NA
 "51",2025-11-15,"wk inc covid hosp","quantile",68,NA
 "53",2025-11-15,"wk inc covid hosp","quantile",63,NA
@@ -11234,7 +11234,7 @@
 "54",2025-11-15,"wk inc covid prop ed visits","quantile",0.0062,NA
 "55",2025-11-15,"wk inc covid prop ed visits","quantile",0.0032,NA
 "56",2025-11-15,"wk inc covid prop ed visits","quantile",0.0021,NA
-"US",2025-11-15,"wk inc covid hosp","sample",3415,NA
+"US",2025-11-15,"wk inc covid hosp","sample",3414,NA
 "01",2025-11-15,"wk inc covid hosp","sample",56,NA
 "02",2025-11-15,"wk inc covid hosp","sample",5,NA
 "04",2025-11-15,"wk inc covid hosp","sample",80,NA
@@ -11279,7 +11279,7 @@
 "46",2025-11-15,"wk inc covid hosp","sample",12,NA
 "47",2025-11-15,"wk inc covid hosp","sample",78,NA
 "48",2025-11-15,"wk inc covid hosp","sample",176,NA
-"49",2025-11-15,"wk inc covid hosp","sample",14,NA
+"49",2025-11-15,"wk inc covid hosp","sample",13,NA
 "50",2025-11-15,"wk inc covid hosp","sample",14,NA
 "51",2025-11-15,"wk inc covid hosp","sample",68,NA
 "53",2025-11-15,"wk inc covid hosp","sample",63,NA
@@ -11759,7 +11759,7 @@
 "54",2025-11-29,"wk inc covid prop ed visits","sample",0.0087,NA
 "55",2025-11-29,"wk inc covid prop ed visits","sample",0.0041,NA
 "56",2025-11-29,"wk inc covid prop ed visits","sample",0.0054,NA
-"US",2025-12-06,"wk inc covid hosp","quantile",4286,NA
+"US",2025-12-06,"wk inc covid hosp","quantile",4285,NA
 "01",2025-12-06,"wk inc covid hosp","quantile",61,NA
 "02",2025-12-06,"wk inc covid hosp","quantile",5,NA
 "04",2025-12-06,"wk inc covid hosp","quantile",58,NA
@@ -11804,7 +11804,7 @@
 "46",2025-12-06,"wk inc covid hosp","quantile",21,NA
 "47",2025-12-06,"wk inc covid hosp","quantile",120,NA
 "48",2025-12-06,"wk inc covid hosp","quantile",228,NA
-"49",2025-12-06,"wk inc covid hosp","quantile",13,NA
+"49",2025-12-06,"wk inc covid hosp","quantile",12,NA
 "50",2025-12-06,"wk inc covid hosp","quantile",13,NA
 "51",2025-12-06,"wk inc covid hosp","quantile",73,NA
 "53",2025-12-06,"wk inc covid hosp","quantile",50,NA
@@ -11864,7 +11864,7 @@
 "54",2025-12-06,"wk inc covid prop ed visits","quantile",0.0104,NA
 "55",2025-12-06,"wk inc covid prop ed visits","quantile",0.0048,NA
 "56",2025-12-06,"wk inc covid prop ed visits","quantile",0.0069,NA
-"US",2025-12-06,"wk inc covid hosp","sample",4286,NA
+"US",2025-12-06,"wk inc covid hosp","sample",4285,NA
 "01",2025-12-06,"wk inc covid hosp","sample",61,NA
 "02",2025-12-06,"wk inc covid hosp","sample",5,NA
 "04",2025-12-06,"wk inc covid hosp","sample",58,NA
@@ -11909,7 +11909,7 @@
 "46",2025-12-06,"wk inc covid hosp","sample",21,NA
 "47",2025-12-06,"wk inc covid hosp","sample",120,NA
 "48",2025-12-06,"wk inc covid hosp","sample",228,NA
-"49",2025-12-06,"wk inc covid hosp","sample",13,NA
+"49",2025-12-06,"wk inc covid hosp","sample",12,NA
 "50",2025-12-06,"wk inc covid hosp","sample",13,NA
 "51",2025-12-06,"wk inc covid hosp","sample",73,NA
 "53",2025-12-06,"wk inc covid hosp","sample",50,NA
@@ -13076,7 +13076,7 @@
 "01",2026-01-17,"wk inc covid prop ed visits","quantile",0.0043,NA
 "02",2026-01-17,"wk inc covid prop ed visits","quantile",0.0026,NA
 "04",2026-01-17,"wk inc covid prop ed visits","quantile",0.0032,NA
-"05",2026-01-17,"wk inc covid prop ed visits","quantile",0.006,NA
+"05",2026-01-17,"wk inc covid prop ed visits","quantile",0.0059,NA
 "06",2026-01-17,"wk inc covid prop ed visits","quantile",0.0014,NA
 "08",2026-01-17,"wk inc covid prop ed visits","quantile",0.0067,NA
 "09",2026-01-17,"wk inc covid prop ed visits","quantile",0.0108,NA
@@ -13181,7 +13181,7 @@
 "01",2026-01-17,"wk inc covid prop ed visits","sample",0.0043,NA
 "02",2026-01-17,"wk inc covid prop ed visits","sample",0.0026,NA
 "04",2026-01-17,"wk inc covid prop ed visits","sample",0.0032,NA
-"05",2026-01-17,"wk inc covid prop ed visits","sample",0.006,NA
+"05",2026-01-17,"wk inc covid prop ed visits","sample",0.0059,NA
 "06",2026-01-17,"wk inc covid prop ed visits","sample",0.0014,NA
 "08",2026-01-17,"wk inc covid prop ed visits","sample",0.0067,NA
 "09",2026-01-17,"wk inc covid prop ed visits","sample",0.0108,NA
@@ -15959,7 +15959,7 @@
 "54",2026-04-18,"wk inc covid prop ed visits","sample",0.0025,NA
 "55",2026-04-18,"wk inc covid prop ed visits","sample",0.0014,NA
 "56",2026-04-18,"wk inc covid prop ed visits","sample",0.0059,NA
-"US",2026-04-25,"wk inc covid hosp","quantile",1765,NA
+"US",2026-04-25,"wk inc covid hosp","quantile",1764,NA
 "01",2026-04-25,"wk inc covid hosp","quantile",70,NA
 "02",2026-04-25,"wk inc covid hosp","quantile",3,NA
 "04",2026-04-25,"wk inc covid hosp","quantile",25,NA
@@ -16004,7 +16004,7 @@
 "46",2026-04-25,"wk inc covid hosp","quantile",1,NA
 "47",2026-04-25,"wk inc covid hosp","quantile",39,NA
 "48",2026-04-25,"wk inc covid hosp","quantile",107,NA
-"49",2026-04-25,"wk inc covid hosp","quantile",4,NA
+"49",2026-04-25,"wk inc covid hosp","quantile",3,NA
 "50",2026-04-25,"wk inc covid hosp","quantile",3,NA
 "51",2026-04-25,"wk inc covid hosp","quantile",59,NA
 "53",2026-04-25,"wk inc covid hosp","quantile",21,NA
@@ -16064,7 +16064,7 @@
 "54",2026-04-25,"wk inc covid prop ed visits","quantile",0.0015,NA
 "55",2026-04-25,"wk inc covid prop ed visits","quantile",0.0011,NA
 "56",2026-04-25,"wk inc covid prop ed visits","quantile",0.0043,NA
-"US",2026-04-25,"wk inc covid hosp","sample",1765,NA
+"US",2026-04-25,"wk inc covid hosp","sample",1764,NA
 "01",2026-04-25,"wk inc covid hosp","sample",70,NA
 "02",2026-04-25,"wk inc covid hosp","sample",3,NA
 "04",2026-04-25,"wk inc covid hosp","sample",25,NA
@@ -16109,7 +16109,7 @@
 "46",2026-04-25,"wk inc covid hosp","sample",1,NA
 "47",2026-04-25,"wk inc covid hosp","sample",39,NA
 "48",2026-04-25,"wk inc covid hosp","sample",107,NA
-"49",2026-04-25,"wk inc covid hosp","sample",4,NA
+"49",2026-04-25,"wk inc covid hosp","sample",3,NA
 "50",2026-04-25,"wk inc covid hosp","sample",3,NA
 "51",2026-04-25,"wk inc covid hosp","sample",59,NA
 "53",2026-04-25,"wk inc covid hosp","sample",21,NA
@@ -16169,7 +16169,7 @@
 "54",2026-04-25,"wk inc covid prop ed visits","sample",0.0015,NA
 "55",2026-04-25,"wk inc covid prop ed visits","sample",0.0011,NA
 "56",2026-04-25,"wk inc covid prop ed visits","sample",0.0043,NA
-"US",2026-05-02,"wk inc covid hosp","quantile",1613,NA
+"US",2026-05-02,"wk inc covid hosp","quantile",1612,NA
 "01",2026-05-02,"wk inc covid hosp","quantile",44,NA
 "02",2026-05-02,"wk inc covid hosp","quantile",4,NA
 "04",2026-05-02,"wk inc covid hosp","quantile",29,NA
@@ -16214,7 +16214,7 @@
 "46",2026-05-02,"wk inc covid hosp","quantile",3,NA
 "47",2026-05-02,"wk inc covid hosp","quantile",47,NA
 "48",2026-05-02,"wk inc covid hosp","quantile",96,NA
-"49",2026-05-02,"wk inc covid hosp","quantile",4,NA
+"49",2026-05-02,"wk inc covid hosp","quantile",3,NA
 "50",2026-05-02,"wk inc covid hosp","quantile",0,NA
 "51",2026-05-02,"wk inc covid hosp","quantile",46,NA
 "53",2026-05-02,"wk inc covid hosp","quantile",27,NA
@@ -16274,7 +16274,7 @@
 "54",2026-05-02,"wk inc covid prop ed visits","quantile",0.0013,NA
 "55",2026-05-02,"wk inc covid prop ed visits","quantile",7e-04,NA
 "56",2026-05-02,"wk inc covid prop ed visits","quantile",0.0047,NA
-"US",2026-05-02,"wk inc covid hosp","sample",1613,NA
+"US",2026-05-02,"wk inc covid hosp","sample",1612,NA
 "01",2026-05-02,"wk inc covid hosp","sample",44,NA
 "02",2026-05-02,"wk inc covid hosp","sample",4,NA
 "04",2026-05-02,"wk inc covid hosp","sample",29,NA
@@ -16319,7 +16319,7 @@
 "46",2026-05-02,"wk inc covid hosp","sample",3,NA
 "47",2026-05-02,"wk inc covid hosp","sample",47,NA
 "48",2026-05-02,"wk inc covid hosp","sample",96,NA
-"49",2026-05-02,"wk inc covid hosp","sample",4,NA
+"49",2026-05-02,"wk inc covid hosp","sample",3,NA
 "50",2026-05-02,"wk inc covid hosp","sample",0,NA
 "51",2026-05-02,"wk inc covid hosp","sample",46,NA
 "53",2026-05-02,"wk inc covid hosp","sample",27,NA
@@ -16379,7 +16379,7 @@
 "54",2026-05-02,"wk inc covid prop ed visits","sample",0.0013,NA
 "55",2026-05-02,"wk inc covid prop ed visits","sample",7e-04,NA
 "56",2026-05-02,"wk inc covid prop ed visits","sample",0.0047,NA
-"US",2026-05-09,"wk inc covid hosp","quantile",1446,NA
+"US",2026-05-09,"wk inc covid hosp","quantile",1445,NA
 "01",2026-05-09,"wk inc covid hosp","quantile",48,NA
 "02",2026-05-09,"wk inc covid hosp","quantile",2,NA
 "04",2026-05-09,"wk inc covid hosp","quantile",26,NA
@@ -16424,7 +16424,7 @@
 "46",2026-05-09,"wk inc covid hosp","quantile",3,NA
 "47",2026-05-09,"wk inc covid hosp","quantile",39,NA
 "48",2026-05-09,"wk inc covid hosp","quantile",82,NA
-"49",2026-05-09,"wk inc covid hosp","quantile",8,NA
+"49",2026-05-09,"wk inc covid hosp","quantile",7,NA
 "50",2026-05-09,"wk inc covid hosp","quantile",1,NA
 "51",2026-05-09,"wk inc covid hosp","quantile",21,NA
 "53",2026-05-09,"wk inc covid hosp","quantile",16,NA
@@ -16484,7 +16484,7 @@
 "54",2026-05-09,"wk inc covid prop ed visits","quantile",0.0018,NA
 "55",2026-05-09,"wk inc covid prop ed visits","quantile",7e-04,NA
 "56",2026-05-09,"wk inc covid prop ed visits","quantile",0.0042,NA
-"US",2026-05-09,"wk inc covid hosp","sample",1446,NA
+"US",2026-05-09,"wk inc covid hosp","sample",1445,NA
 "01",2026-05-09,"wk inc covid hosp","sample",48,NA
 "02",2026-05-09,"wk inc covid hosp","sample",2,NA
 "04",2026-05-09,"wk inc covid hosp","sample",26,NA
@@ -16529,7 +16529,7 @@
 "46",2026-05-09,"wk inc covid hosp","sample",3,NA
 "47",2026-05-09,"wk inc covid hosp","sample",39,NA
 "48",2026-05-09,"wk inc covid hosp","sample",82,NA
-"49",2026-05-09,"wk inc covid hosp","sample",8,NA
+"49",2026-05-09,"wk inc covid hosp","sample",7,NA
 "50",2026-05-09,"wk inc covid hosp","sample",1,NA
 "51",2026-05-09,"wk inc covid hosp","sample",21,NA
 "53",2026-05-09,"wk inc covid hosp","sample",16,NA
@@ -18977,7 +18977,7 @@
 "25",2026-08-01,"wk inc covid prop ed visits","quantile",9e-04,NA
 "26",2026-08-01,"wk inc covid prop ed visits","quantile",5e-04,NA
 "27",2026-08-01,"wk inc covid prop ed visits","quantile",9e-04,NA
-"28",2026-08-01,"wk inc covid prop ed visits","quantile",0.0044,NA
+"28",2026-08-01,"wk inc covid prop ed visits","quantile",0.0043,NA
 "29",2026-08-01,"wk inc covid prop ed visits","quantile",0.0013,NA
 "30",2026-08-01,"wk inc covid prop ed visits","quantile",4e-04,NA
 "31",2026-08-01,"wk inc covid prop ed visits","quantile",7e-04,NA
@@ -19082,7 +19082,7 @@
 "25",2026-08-01,"wk inc covid prop ed visits","sample",9e-04,NA
 "26",2026-08-01,"wk inc covid prop ed visits","sample",5e-04,NA
 "27",2026-08-01,"wk inc covid prop ed visits","sample",9e-04,NA
-"28",2026-08-01,"wk inc covid prop ed visits","sample",0.0044,NA
+"28",2026-08-01,"wk inc covid prop ed visits","sample",0.0043,NA
 "29",2026-08-01,"wk inc covid prop ed visits","sample",0.0013,NA
 "30",2026-08-01,"wk inc covid prop ed visits","sample",4e-04,NA
 "31",2026-08-01,"wk inc covid prop ed visits","sample",7e-04,NA
@@ -19529,11 +19529,11 @@
 "54",2026-08-15,"wk inc covid prop ed visits","sample",0.0013,NA
 "55",2026-08-15,"wk inc covid prop ed visits","sample",6e-04,NA
 "56",2026-08-15,"wk inc covid prop ed visits","sample",0.0047,NA
-"US",2026-08-22,"wk inc covid hosp","quantile",2892,NA
+"US",2026-08-22,"wk inc covid hosp","quantile",2893,NA
 "01",2026-08-22,"wk inc covid hosp","quantile",76,NA
 "02",2026-08-22,"wk inc covid hosp","quantile",3,NA
 "04",2026-08-22,"wk inc covid hosp","quantile",59,NA
-"05",2026-08-22,"wk inc covid hosp","quantile",17,NA
+"05",2026-08-22,"wk inc covid hosp","quantile",18,NA
 "06",2026-08-22,"wk inc covid hosp","quantile",546,NA
 "08",2026-08-22,"wk inc covid hosp","quantile",28,NA
 "09",2026-08-22,"wk inc covid hosp","quantile",16,NA
@@ -19634,11 +19634,11 @@
 "54",2026-08-22,"wk inc covid prop ed visits","quantile",0.0011,NA
 "55",2026-08-22,"wk inc covid prop ed visits","quantile",8e-04,NA
 "56",2026-08-22,"wk inc covid prop ed visits","quantile",0.0051,NA
-"US",2026-08-22,"wk inc covid hosp","sample",2892,NA
+"US",2026-08-22,"wk inc covid hosp","sample",2893,NA
 "01",2026-08-22,"wk inc covid hosp","sample",76,NA
 "02",2026-08-22,"wk inc covid hosp","sample",3,NA
 "04",2026-08-22,"wk inc covid hosp","sample",59,NA
-"05",2026-08-22,"wk inc covid hosp","sample",17,NA
+"05",2026-08-22,"wk inc covid hosp","sample",18,NA
 "06",2026-08-22,"wk inc covid hosp","sample",546,NA
 "08",2026-08-22,"wk inc covid hosp","sample",28,NA
 "09",2026-08-22,"wk inc covid hosp","sample",16,NA
@@ -19739,7 +19739,7 @@
 "54",2026-08-22,"wk inc covid prop ed visits","sample",0.0011,NA
 "55",2026-08-22,"wk inc covid prop ed visits","sample",8e-04,NA
 "56",2026-08-22,"wk inc covid prop ed visits","sample",0.0051,NA
-"US",2026-08-29,"wk inc covid hosp","quantile",3666,NA
+"US",2026-08-29,"wk inc covid hosp","quantile",3672,NA
 "01",2026-08-29,"wk inc covid hosp","quantile",83,NA
 "02",2026-08-29,"wk inc covid hosp","quantile",4,NA
 "04",2026-08-29,"wk inc covid hosp","quantile",95,NA
@@ -19753,7 +19753,7 @@
 "13",2026-08-29,"wk inc covid hosp","quantile",137,NA
 "15",2026-08-29,"wk inc covid hosp","quantile",31,NA
 "16",2026-08-29,"wk inc covid hosp","quantile",14,NA
-"17",2026-08-29,"wk inc covid hosp","quantile",43,NA
+"17",2026-08-29,"wk inc covid hosp","quantile",45,NA
 "18",2026-08-29,"wk inc covid hosp","quantile",16,NA
 "19",2026-08-29,"wk inc covid hosp","quantile",6,NA
 "20",2026-08-29,"wk inc covid hosp","quantile",9,NA
@@ -19771,10 +19771,10 @@
 "32",2026-08-29,"wk inc covid hosp","quantile",13,NA
 "33",2026-08-29,"wk inc covid hosp","quantile",3,NA
 "34",2026-08-29,"wk inc covid hosp","quantile",102,NA
-"35",2026-08-29,"wk inc covid hosp","quantile",14,NA
+"35",2026-08-29,"wk inc covid hosp","quantile",16,NA
 "36",2026-08-29,"wk inc covid hosp","quantile",225,NA
 "37",2026-08-29,"wk inc covid hosp","quantile",133,NA
-"38",2026-08-29,"wk inc covid hosp","quantile",0,NA
+"38",2026-08-29,"wk inc covid hosp","quantile",2,NA
 "39",2026-08-29,"wk inc covid hosp","quantile",49,NA
 "40",2026-08-29,"wk inc covid hosp","quantile",22,NA
 "41",2026-08-29,"wk inc covid hosp","quantile",27,NA
@@ -19836,7 +19836,7 @@
 "45",2026-08-29,"wk inc covid prop ed visits","quantile",0.0077,NA
 "46",2026-08-29,"wk inc covid prop ed visits","quantile",0.0015,NA
 "47",2026-08-29,"wk inc covid prop ed visits","quantile",0.0063,NA
-"48",2026-08-29,"wk inc covid prop ed visits","quantile",0.0172,NA
+"48",2026-08-29,"wk inc covid prop ed visits","quantile",0.0171,NA
 "49",2026-08-29,"wk inc covid prop ed visits","quantile",0.0025,NA
 "50",2026-08-29,"wk inc covid prop ed visits","quantile",0.0013,NA
 "51",2026-08-29,"wk inc covid prop ed visits","quantile",0.0043,NA
@@ -19844,7 +19844,7 @@
 "54",2026-08-29,"wk inc covid prop ed visits","quantile",0.0023,NA
 "55",2026-08-29,"wk inc covid prop ed visits","quantile",0.0012,NA
 "56",2026-08-29,"wk inc covid prop ed visits","quantile",0.0052,NA
-"US",2026-08-29,"wk inc covid hosp","sample",3666,NA
+"US",2026-08-29,"wk inc covid hosp","sample",3672,NA
 "01",2026-08-29,"wk inc covid hosp","sample",83,NA
 "02",2026-08-29,"wk inc covid hosp","sample",4,NA
 "04",2026-08-29,"wk inc covid hosp","sample",95,NA
@@ -19858,7 +19858,7 @@
 "13",2026-08-29,"wk inc covid hosp","sample",137,NA
 "15",2026-08-29,"wk inc covid hosp","sample",31,NA
 "16",2026-08-29,"wk inc covid hosp","sample",14,NA
-"17",2026-08-29,"wk inc covid hosp","sample",43,NA
+"17",2026-08-29,"wk inc covid hosp","sample",45,NA
 "18",2026-08-29,"wk inc covid hosp","sample",16,NA
 "19",2026-08-29,"wk inc covid hosp","sample",6,NA
 "20",2026-08-29,"wk inc covid hosp","sample",9,NA
@@ -19876,10 +19876,10 @@
 "32",2026-08-29,"wk inc covid hosp","sample",13,NA
 "33",2026-08-29,"wk inc covid hosp","sample",3,NA
 "34",2026-08-29,"wk inc covid hosp","sample",102,NA
-"35",2026-08-29,"wk inc covid hosp","sample",14,NA
+"35",2026-08-29,"wk inc covid hosp","sample",16,NA
 "36",2026-08-29,"wk inc covid hosp","sample",225,NA
 "37",2026-08-29,"wk inc covid hosp","sample",133,NA
-"38",2026-08-29,"wk inc covid hosp","sample",0,NA
+"38",2026-08-29,"wk inc covid hosp","sample",2,NA
 "39",2026-08-29,"wk inc covid hosp","sample",49,NA
 "40",2026-08-29,"wk inc covid hosp","sample",22,NA
 "41",2026-08-29,"wk inc covid hosp","sample",27,NA
@@ -19941,7 +19941,7 @@
 "45",2026-08-29,"wk inc covid prop ed visits","sample",0.0077,NA
 "46",2026-08-29,"wk inc covid prop ed visits","sample",0.0015,NA
 "47",2026-08-29,"wk inc covid prop ed visits","sample",0.0063,NA
-"48",2026-08-29,"wk inc covid prop ed visits","sample",0.0172,NA
+"48",2026-08-29,"wk inc covid prop ed visits","sample",0.0171,NA
 "49",2026-08-29,"wk inc covid prop ed visits","sample",0.0025,NA
 "50",2026-08-29,"wk inc covid prop ed visits","sample",0.0013,NA
 "51",2026-08-29,"wk inc covid prop ed visits","sample",0.0043,NA
@@ -20002,12 +20002,12 @@
 "55",2026-09-05,"wk inc covid hosp","quantile",21,NA
 "56",2026-09-05,"wk inc covid hosp","quantile",2,NA
 "72",2026-09-05,"wk inc covid hosp","quantile",42,NA
-"US",2026-09-05,"wk inc covid prop ed visits","quantile",0.0064,NA
+"US",2026-09-05,"wk inc covid prop ed visits","quantile",0.0065,NA
 "01",2026-09-05,"wk inc covid prop ed visits","quantile",0.0099,NA
 "02",2026-09-05,"wk inc covid prop ed visits","quantile",0.0043,NA
 "04",2026-09-05,"wk inc covid prop ed visits","quantile",0.0066,NA
 "05",2026-09-05,"wk inc covid prop ed visits","quantile",0.0057,NA
-"06",2026-09-05,"wk inc covid prop ed visits","quantile",0.0084,NA
+"06",2026-09-05,"wk inc covid prop ed visits","quantile",0.0085,NA
 "08",2026-09-05,"wk inc covid prop ed visits","quantile",0.0025,NA
 "09",2026-09-05,"wk inc covid prop ed visits","quantile",0.0041,NA
 "10",2026-09-05,"wk inc covid prop ed visits","quantile",0.0033,NA
@@ -20107,12 +20107,12 @@
 "55",2026-09-05,"wk inc covid hosp","sample",21,NA
 "56",2026-09-05,"wk inc covid hosp","sample",2,NA
 "72",2026-09-05,"wk inc covid hosp","sample",42,NA
-"US",2026-09-05,"wk inc covid prop ed visits","sample",0.0064,NA
+"US",2026-09-05,"wk inc covid prop ed visits","sample",0.0065,NA
 "01",2026-09-05,"wk inc covid prop ed visits","sample",0.0099,NA
 "02",2026-09-05,"wk inc covid prop ed visits","sample",0.0043,NA
 "04",2026-09-05,"wk inc covid prop ed visits","sample",0.0066,NA
 "05",2026-09-05,"wk inc covid prop ed visits","sample",0.0057,NA
-"06",2026-09-05,"wk inc covid prop ed visits","sample",0.0084,NA
+"06",2026-09-05,"wk inc covid prop ed visits","sample",0.0085,NA
 "08",2026-09-05,"wk inc covid prop ed visits","sample",0.0025,NA
 "09",2026-09-05,"wk inc covid prop ed visits","sample",0.0041,NA
 "10",2026-09-05,"wk inc covid prop ed visits","sample",0.0033,NA
@@ -20159,7 +20159,7 @@
 "54",2026-09-05,"wk inc covid prop ed visits","sample",0.0028,NA
 "55",2026-09-05,"wk inc covid prop ed visits","sample",0.0013,NA
 "56",2026-09-05,"wk inc covid prop ed visits","sample",0.0059,NA
-"US",2026-09-12,"wk inc covid hosp","quantile",4344,NA
+"US",2026-09-12,"wk inc covid hosp","quantile",4355,NA
 "01",2026-09-12,"wk inc covid hosp","quantile",106,NA
 "02",2026-09-12,"wk inc covid hosp","quantile",6,NA
 "04",2026-09-12,"wk inc covid hosp","quantile",94,NA
@@ -20169,11 +20169,11 @@
 "09",2026-09-12,"wk inc covid hosp","quantile",17,NA
 "10",2026-09-12,"wk inc covid hosp","quantile",16,NA
 "11",2026-09-12,"wk inc covid hosp","quantile",9,NA
-"12",2026-09-12,"wk inc covid hosp","quantile",598,NA
+"12",2026-09-12,"wk inc covid hosp","quantile",600,NA
 "13",2026-09-12,"wk inc covid hosp","quantile",120,NA
 "15",2026-09-12,"wk inc covid hosp","quantile",31,NA
-"16",2026-09-12,"wk inc covid hosp","quantile",11,NA
-"17",2026-09-12,"wk inc covid hosp","quantile",54,NA
+"16",2026-09-12,"wk inc covid hosp","quantile",18,NA
+"17",2026-09-12,"wk inc covid hosp","quantile",55,NA
 "18",2026-09-12,"wk inc covid hosp","quantile",35,NA
 "19",2026-09-12,"wk inc covid hosp","quantile",15,NA
 "20",2026-09-12,"wk inc covid hosp","quantile",14,NA
@@ -20203,7 +20203,7 @@
 "45",2026-09-12,"wk inc covid hosp","quantile",83,NA
 "46",2026-09-12,"wk inc covid hosp","quantile",5,NA
 "47",2026-09-12,"wk inc covid hosp","quantile",85,NA
-"48",2026-09-12,"wk inc covid hosp","quantile",567,NA
+"48",2026-09-12,"wk inc covid hosp","quantile",568,NA
 "49",2026-09-12,"wk inc covid hosp","quantile",13,NA
 "50",2026-09-12,"wk inc covid hosp","quantile",4,NA
 "51",2026-09-12,"wk inc covid hosp","quantile",44,NA
@@ -20224,7 +20224,7 @@
 "11",2026-09-12,"wk inc covid prop ed visits","quantile",0.002,NA
 "12",2026-09-12,"wk inc covid prop ed visits","quantile",0.0111,NA
 "13",2026-09-12,"wk inc covid prop ed visits","quantile",0.0059,NA
-"15",2026-09-12,"wk inc covid prop ed visits","quantile",0.0153,NA
+"15",2026-09-12,"wk inc covid prop ed visits","quantile",0.0154,NA
 "16",2026-09-12,"wk inc covid prop ed visits","quantile",0.0052,NA
 "17",2026-09-12,"wk inc covid prop ed visits","quantile",0.0023,NA
 "18",2026-09-12,"wk inc covid prop ed visits","quantile",0.0016,NA
@@ -20237,7 +20237,7 @@
 "25",2026-09-12,"wk inc covid prop ed visits","quantile",0.0027,NA
 "26",2026-09-12,"wk inc covid prop ed visits","quantile",0.0018,NA
 "27",2026-09-12,"wk inc covid prop ed visits","quantile",0.0024,NA
-"28",2026-09-12,"wk inc covid prop ed visits","quantile",0.0062,NA
+"28",2026-09-12,"wk inc covid prop ed visits","quantile",0.0061,NA
 "29",2026-09-12,"wk inc covid prop ed visits","quantile",0.0033,NA
 "30",2026-09-12,"wk inc covid prop ed visits","quantile",0.0021,NA
 "31",2026-09-12,"wk inc covid prop ed visits","quantile",0.0011,NA
@@ -20264,7 +20264,7 @@
 "54",2026-09-12,"wk inc covid prop ed visits","quantile",0.0031,NA
 "55",2026-09-12,"wk inc covid prop ed visits","quantile",0.0016,NA
 "56",2026-09-12,"wk inc covid prop ed visits","quantile",0.005,NA
-"US",2026-09-12,"wk inc covid hosp","sample",4344,NA
+"US",2026-09-12,"wk inc covid hosp","sample",4355,NA
 "01",2026-09-12,"wk inc covid hosp","sample",106,NA
 "02",2026-09-12,"wk inc covid hosp","sample",6,NA
 "04",2026-09-12,"wk inc covid hosp","sample",94,NA
@@ -20274,11 +20274,11 @@
 "09",2026-09-12,"wk inc covid hosp","sample",17,NA
 "10",2026-09-12,"wk inc covid hosp","sample",16,NA
 "11",2026-09-12,"wk inc covid hosp","sample",9,NA
-"12",2026-09-12,"wk inc covid hosp","sample",598,NA
+"12",2026-09-12,"wk inc covid hosp","sample",600,NA
 "13",2026-09-12,"wk inc covid hosp","sample",120,NA
 "15",2026-09-12,"wk inc covid hosp","sample",31,NA
-"16",2026-09-12,"wk inc covid hosp","sample",11,NA
-"17",2026-09-12,"wk inc covid hosp","sample",54,NA
+"16",2026-09-12,"wk inc covid hosp","sample",18,NA
+"17",2026-09-12,"wk inc covid hosp","sample",55,NA
 "18",2026-09-12,"wk inc covid hosp","sample",35,NA
 "19",2026-09-12,"wk inc covid hosp","sample",15,NA
 "20",2026-09-12,"wk inc covid hosp","sample",14,NA
@@ -20308,7 +20308,7 @@
 "45",2026-09-12,"wk inc covid hosp","sample",83,NA
 "46",2026-09-12,"wk inc covid hosp","sample",5,NA
 "47",2026-09-12,"wk inc covid hosp","sample",85,NA
-"48",2026-09-12,"wk inc covid hosp","sample",567,NA
+"48",2026-09-12,"wk inc covid hosp","sample",568,NA
 "49",2026-09-12,"wk inc covid hosp","sample",13,NA
 "50",2026-09-12,"wk inc covid hosp","sample",4,NA
 "51",2026-09-12,"wk inc covid hosp","sample",44,NA
@@ -20329,7 +20329,7 @@
 "11",2026-09-12,"wk inc covid prop ed visits","sample",0.002,NA
 "12",2026-09-12,"wk inc covid prop ed visits","sample",0.0111,NA
 "13",2026-09-12,"wk inc covid prop ed visits","sample",0.0059,NA
-"15",2026-09-12,"wk inc covid prop ed visits","sample",0.0153,NA
+"15",2026-09-12,"wk inc covid prop ed visits","sample",0.0154,NA
 "16",2026-09-12,"wk inc covid prop ed visits","sample",0.0052,NA
 "17",2026-09-12,"wk inc covid prop ed visits","sample",0.0023,NA
 "18",2026-09-12,"wk inc covid prop ed visits","sample",0.0016,NA
@@ -20342,7 +20342,7 @@
 "25",2026-09-12,"wk inc covid prop ed visits","sample",0.0027,NA
 "26",2026-09-12,"wk inc covid prop ed visits","sample",0.0018,NA
 "27",2026-09-12,"wk inc covid prop ed visits","sample",0.0024,NA
-"28",2026-09-12,"wk inc covid prop ed visits","sample",0.0062,NA
+"28",2026-09-12,"wk inc covid prop ed visits","sample",0.0061,NA
 "29",2026-09-12,"wk inc covid prop ed visits","sample",0.0033,NA
 "30",2026-09-12,"wk inc covid prop ed visits","sample",0.0021,NA
 "31",2026-09-12,"wk inc covid prop ed visits","sample",0.0011,NA
@@ -20369,7 +20369,7 @@
 "54",2026-09-12,"wk inc covid prop ed visits","sample",0.0031,NA
 "55",2026-09-12,"wk inc covid prop ed visits","sample",0.0016,NA
 "56",2026-09-12,"wk inc covid prop ed visits","sample",0.005,NA
-"US",2026-09-19,"wk inc covid hosp","quantile",4574,NA
+"US",2026-09-19,"wk inc covid hosp","quantile",4605,NA
 "01",2026-09-19,"wk inc covid hosp","quantile",109,NA
 "02",2026-09-19,"wk inc covid hosp","quantile",2,NA
 "04",2026-09-19,"wk inc covid hosp","quantile",74,NA
@@ -20379,11 +20379,11 @@
 "09",2026-09-19,"wk inc covid hosp","quantile",34,NA
 "10",2026-09-19,"wk inc covid hosp","quantile",8,NA
 "11",2026-09-19,"wk inc covid hosp","quantile",15,NA
-"12",2026-09-19,"wk inc covid hosp","quantile",621,NA
+"12",2026-09-19,"wk inc covid hosp","quantile",619,NA
 "13",2026-09-19,"wk inc covid hosp","quantile",113,NA
 "15",2026-09-19,"wk inc covid hosp","quantile",42,NA
 "16",2026-09-19,"wk inc covid hosp","quantile",11,NA
-"17",2026-09-19,"wk inc covid hosp","quantile",65,NA
+"17",2026-09-19,"wk inc covid hosp","quantile",67,NA
 "18",2026-09-19,"wk inc covid hosp","quantile",25,NA
 "19",2026-09-19,"wk inc covid hosp","quantile",14,NA
 "20",2026-09-19,"wk inc covid hosp","quantile",7,NA
@@ -20401,7 +20401,7 @@
 "32",2026-09-19,"wk inc covid hosp","quantile",37,NA
 "33",2026-09-19,"wk inc covid hosp","quantile",4,NA
 "34",2026-09-19,"wk inc covid hosp","quantile",126,NA
-"35",2026-09-19,"wk inc covid hosp","quantile",8,NA
+"35",2026-09-19,"wk inc covid hosp","quantile",11,NA
 "36",2026-09-19,"wk inc covid hosp","quantile",279,NA
 "37",2026-09-19,"wk inc covid hosp","quantile",212,NA
 "38",2026-09-19,"wk inc covid hosp","quantile",1,NA
@@ -20413,7 +20413,7 @@
 "45",2026-09-19,"wk inc covid hosp","quantile",56,NA
 "46",2026-09-19,"wk inc covid hosp","quantile",5,NA
 "47",2026-09-19,"wk inc covid hosp","quantile",79,NA
-"48",2026-09-19,"wk inc covid hosp","quantile",472,NA
+"48",2026-09-19,"wk inc covid hosp","quantile",473,NA
 "49",2026-09-19,"wk inc covid hosp","quantile",24,NA
 "50",2026-09-19,"wk inc covid hosp","quantile",3,NA
 "51",2026-09-19,"wk inc covid hosp","quantile",56,NA
@@ -20421,13 +20421,13 @@
 "54",2026-09-19,"wk inc covid hosp","quantile",17,NA
 "55",2026-09-19,"wk inc covid hosp","quantile",22,NA
 "56",2026-09-19,"wk inc covid hosp","quantile",0,NA
-"72",2026-09-19,"wk inc covid hosp","quantile",110,NA
+"72",2026-09-19,"wk inc covid hosp","quantile",137,NA
 "US",2026-09-19,"wk inc covid prop ed visits","quantile",0.0056,NA
 "01",2026-09-19,"wk inc covid prop ed visits","quantile",0.0061,NA
 "02",2026-09-19,"wk inc covid prop ed visits","quantile",0.0034,NA
 "04",2026-09-19,"wk inc covid prop ed visits","quantile",0.0051,NA
 "05",2026-09-19,"wk inc covid prop ed visits","quantile",0.0048,NA
-"06",2026-09-19,"wk inc covid prop ed visits","quantile",0.0087,NA
+"06",2026-09-19,"wk inc covid prop ed visits","quantile",0.0088,NA
 "08",2026-09-19,"wk inc covid prop ed visits","quantile",0.0032,NA
 "09",2026-09-19,"wk inc covid prop ed visits","quantile",0.0055,NA
 "10",2026-09-19,"wk inc covid prop ed visits","quantile",0.0031,NA
@@ -20435,7 +20435,7 @@
 "12",2026-09-19,"wk inc covid prop ed visits","quantile",0.0096,NA
 "13",2026-09-19,"wk inc covid prop ed visits","quantile",0.0048,NA
 "15",2026-09-19,"wk inc covid prop ed visits","quantile",0.0174,NA
-"16",2026-09-19,"wk inc covid prop ed visits","quantile",0.0049,NA
+"16",2026-09-19,"wk inc covid prop ed visits","quantile",0.005,NA
 "17",2026-09-19,"wk inc covid prop ed visits","quantile",0.0022,NA
 "18",2026-09-19,"wk inc covid prop ed visits","quantile",0.0015,NA
 "19",2026-09-19,"wk inc covid prop ed visits","quantile",NA,NA
@@ -20465,16 +20465,16 @@
 "44",2026-09-19,"wk inc covid prop ed visits","quantile",0.0033,NA
 "45",2026-09-19,"wk inc covid prop ed visits","quantile",0.0061,NA
 "46",2026-09-19,"wk inc covid prop ed visits","quantile",0.0023,NA
-"47",2026-09-19,"wk inc covid prop ed visits","quantile",0.0047,NA
+"47",2026-09-19,"wk inc covid prop ed visits","quantile",0.0046,NA
 "48",2026-09-19,"wk inc covid prop ed visits","quantile",0.0098,NA
 "49",2026-09-19,"wk inc covid prop ed visits","quantile",0.0036,NA
 "50",2026-09-19,"wk inc covid prop ed visits","quantile",0.0014,NA
 "51",2026-09-19,"wk inc covid prop ed visits","quantile",0.0048,NA
-"53",2026-09-19,"wk inc covid prop ed visits","quantile",0.0105,NA
+"53",2026-09-19,"wk inc covid prop ed visits","quantile",0.0106,NA
 "54",2026-09-19,"wk inc covid prop ed visits","quantile",0.0032,NA
 "55",2026-09-19,"wk inc covid prop ed visits","quantile",0.0015,NA
 "56",2026-09-19,"wk inc covid prop ed visits","quantile",0.0044,NA
-"US",2026-09-19,"wk inc covid hosp","sample",4574,NA
+"US",2026-09-19,"wk inc covid hosp","sample",4605,NA
 "01",2026-09-19,"wk inc covid hosp","sample",109,NA
 "02",2026-09-19,"wk inc covid hosp","sample",2,NA
 "04",2026-09-19,"wk inc covid hosp","sample",74,NA
@@ -20484,11 +20484,11 @@
 "09",2026-09-19,"wk inc covid hosp","sample",34,NA
 "10",2026-09-19,"wk inc covid hosp","sample",8,NA
 "11",2026-09-19,"wk inc covid hosp","sample",15,NA
-"12",2026-09-19,"wk inc covid hosp","sample",621,NA
+"12",2026-09-19,"wk inc covid hosp","sample",619,NA
 "13",2026-09-19,"wk inc covid hosp","sample",113,NA
 "15",2026-09-19,"wk inc covid hosp","sample",42,NA
 "16",2026-09-19,"wk inc covid hosp","sample",11,NA
-"17",2026-09-19,"wk inc covid hosp","sample",65,NA
+"17",2026-09-19,"wk inc covid hosp","sample",67,NA
 "18",2026-09-19,"wk inc covid hosp","sample",25,NA
 "19",2026-09-19,"wk inc covid hosp","sample",14,NA
 "20",2026-09-19,"wk inc covid hosp","sample",7,NA
@@ -20506,7 +20506,7 @@
 "32",2026-09-19,"wk inc covid hosp","sample",37,NA
 "33",2026-09-19,"wk inc covid hosp","sample",4,NA
 "34",2026-09-19,"wk inc covid hosp","sample",126,NA
-"35",2026-09-19,"wk inc covid hosp","sample",8,NA
+"35",2026-09-19,"wk inc covid hosp","sample",11,NA
 "36",2026-09-19,"wk inc covid hosp","sample",279,NA
 "37",2026-09-19,"wk inc covid hosp","sample",212,NA
 "38",2026-09-19,"wk inc covid hosp","sample",1,NA
@@ -20518,7 +20518,7 @@
 "45",2026-09-19,"wk inc covid hosp","sample",56,NA
 "46",2026-09-19,"wk inc covid hosp","sample",5,NA
 "47",2026-09-19,"wk inc covid hosp","sample",79,NA
-"48",2026-09-19,"wk inc covid hosp","sample",472,NA
+"48",2026-09-19,"wk inc covid hosp","sample",473,NA
 "49",2026-09-19,"wk inc covid hosp","sample",24,NA
 "50",2026-09-19,"wk inc covid hosp","sample",3,NA
 "51",2026-09-19,"wk inc covid hosp","sample",56,NA
@@ -20526,13 +20526,13 @@
 "54",2026-09-19,"wk inc covid hosp","sample",17,NA
 "55",2026-09-19,"wk inc covid hosp","sample",22,NA
 "56",2026-09-19,"wk inc covid hosp","sample",0,NA
-"72",2026-09-19,"wk inc covid hosp","sample",110,NA
+"72",2026-09-19,"wk inc covid hosp","sample",137,NA
 "US",2026-09-19,"wk inc covid prop ed visits","sample",0.0056,NA
 "01",2026-09-19,"wk inc covid prop ed visits","sample",0.0061,NA
 "02",2026-09-19,"wk inc covid prop ed visits","sample",0.0034,NA
 "04",2026-09-19,"wk inc covid prop ed visits","sample",0.0051,NA
 "05",2026-09-19,"wk inc covid prop ed visits","sample",0.0048,NA
-"06",2026-09-19,"wk inc covid prop ed visits","sample",0.0087,NA
+"06",2026-09-19,"wk inc covid prop ed visits","sample",0.0088,NA
 "08",2026-09-19,"wk inc covid prop ed visits","sample",0.0032,NA
 "09",2026-09-19,"wk inc covid prop ed visits","sample",0.0055,NA
 "10",2026-09-19,"wk inc covid prop ed visits","sample",0.0031,NA
@@ -20540,7 +20540,7 @@
 "12",2026-09-19,"wk inc covid prop ed visits","sample",0.0096,NA
 "13",2026-09-19,"wk inc covid prop ed visits","sample",0.0048,NA
 "15",2026-09-19,"wk inc covid prop ed visits","sample",0.0174,NA
-"16",2026-09-19,"wk inc covid prop ed visits","sample",0.0049,NA
+"16",2026-09-19,"wk inc covid prop ed visits","sample",0.005,NA
 "17",2026-09-19,"wk inc covid prop ed visits","sample",0.0022,NA
 "18",2026-09-19,"wk inc covid prop ed visits","sample",0.0015,NA
 "19",2026-09-19,"wk inc covid prop ed visits","sample",NA,NA
@@ -20570,16 +20570,16 @@
 "44",2026-09-19,"wk inc covid prop ed visits","sample",0.0033,NA
 "45",2026-09-19,"wk inc covid prop ed visits","sample",0.0061,NA
 "46",2026-09-19,"wk inc covid prop ed visits","sample",0.0023,NA
-"47",2026-09-19,"wk inc covid prop ed visits","sample",0.0047,NA
+"47",2026-09-19,"wk inc covid prop ed visits","sample",0.0046,NA
 "48",2026-09-19,"wk inc covid prop ed visits","sample",0.0098,NA
 "49",2026-09-19,"wk inc covid prop ed visits","sample",0.0036,NA
 "50",2026-09-19,"wk inc covid prop ed visits","sample",0.0014,NA
 "51",2026-09-19,"wk inc covid prop ed visits","sample",0.0048,NA
-"53",2026-09-19,"wk inc covid prop ed visits","sample",0.0105,NA
+"53",2026-09-19,"wk inc covid prop ed visits","sample",0.0106,NA
 "54",2026-09-19,"wk inc covid prop ed visits","sample",0.0032,NA
 "55",2026-09-19,"wk inc covid prop ed visits","sample",0.0015,NA
 "56",2026-09-19,"wk inc covid prop ed visits","sample",0.0044,NA
-"US",2026-09-26,"wk inc covid hosp","quantile",4581,NA
+"US",2026-09-26,"wk inc covid hosp","quantile",4636,NA
 "01",2026-09-26,"wk inc covid hosp","quantile",105,NA
 "02",2026-09-26,"wk inc covid hosp","quantile",3,NA
 "04",2026-09-26,"wk inc covid hosp","quantile",70,NA
@@ -20592,8 +20592,8 @@
 "12",2026-09-26,"wk inc covid hosp","quantile",587,NA
 "13",2026-09-26,"wk inc covid hosp","quantile",99,NA
 "15",2026-09-26,"wk inc covid hosp","quantile",44,NA
-"16",2026-09-26,"wk inc covid hosp","quantile",16,NA
-"17",2026-09-26,"wk inc covid hosp","quantile",71,NA
+"16",2026-09-26,"wk inc covid hosp","quantile",22,NA
+"17",2026-09-26,"wk inc covid hosp","quantile",73,NA
 "18",2026-09-26,"wk inc covid hosp","quantile",29,NA
 "19",2026-09-26,"wk inc covid hosp","quantile",17,NA
 "20",2026-09-26,"wk inc covid hosp","quantile",6,NA
@@ -20608,7 +20608,7 @@
 "29",2026-09-26,"wk inc covid hosp","quantile",47,NA
 "30",2026-09-26,"wk inc covid hosp","quantile",5,NA
 "31",2026-09-26,"wk inc covid hosp","quantile",6,NA
-"32",2026-09-26,"wk inc covid hosp","quantile",31,NA
+"32",2026-09-26,"wk inc covid hosp","quantile",41,NA
 "33",2026-09-26,"wk inc covid hosp","quantile",16,NA
 "34",2026-09-26,"wk inc covid hosp","quantile",139,NA
 "35",2026-09-26,"wk inc covid hosp","quantile",6,NA
@@ -20617,7 +20617,7 @@
 "38",2026-09-26,"wk inc covid hosp","quantile",3,NA
 "39",2026-09-26,"wk inc covid hosp","quantile",72,NA
 "40",2026-09-26,"wk inc covid hosp","quantile",14,NA
-"41",2026-09-26,"wk inc covid hosp","quantile",57,NA
+"41",2026-09-26,"wk inc covid hosp","quantile",58,NA
 "42",2026-09-26,"wk inc covid hosp","quantile",181,NA
 "44",2026-09-26,"wk inc covid hosp","quantile",7,NA
 "45",2026-09-26,"wk inc covid hosp","quantile",70,NA
@@ -20631,7 +20631,7 @@
 "54",2026-09-26,"wk inc covid hosp","quantile",21,NA
 "55",2026-09-26,"wk inc covid hosp","quantile",31,NA
 "56",2026-09-26,"wk inc covid hosp","quantile",5,NA
-"72",2026-09-26,"wk inc covid hosp","quantile",81,NA
+"72",2026-09-26,"wk inc covid hosp","quantile",117,NA
 "US",2026-09-26,"wk inc covid prop ed visits","quantile",0.0053,NA
 "01",2026-09-26,"wk inc covid prop ed visits","quantile",0.0058,NA
 "02",2026-09-26,"wk inc covid prop ed visits","quantile",0.0031,NA
@@ -20641,15 +20641,15 @@
 "08",2026-09-26,"wk inc covid prop ed visits","quantile",0.0031,NA
 "09",2026-09-26,"wk inc covid prop ed visits","quantile",0.0052,NA
 "10",2026-09-26,"wk inc covid prop ed visits","quantile",0.0038,NA
-"11",2026-09-26,"wk inc covid prop ed visits","quantile",0.0031,NA
-"12",2026-09-26,"wk inc covid prop ed visits","quantile",0.0086,NA
+"11",2026-09-26,"wk inc covid prop ed visits","quantile",0.0032,NA
+"12",2026-09-26,"wk inc covid prop ed visits","quantile",0.0087,NA
 "13",2026-09-26,"wk inc covid prop ed visits","quantile",0.0048,NA
 "15",2026-09-26,"wk inc covid prop ed visits","quantile",0.0163,NA
 "16",2026-09-26,"wk inc covid prop ed visits","quantile",0.0049,NA
 "17",2026-09-26,"wk inc covid prop ed visits","quantile",0.0021,NA
 "18",2026-09-26,"wk inc covid prop ed visits","quantile",0.0017,NA
 "19",2026-09-26,"wk inc covid prop ed visits","quantile",NA,NA
-"20",2026-09-26,"wk inc covid prop ed visits","quantile",0.0011,NA
+"20",2026-09-26,"wk inc covid prop ed visits","quantile",0.0012,NA
 "21",2026-09-26,"wk inc covid prop ed visits","quantile",0.0028,NA
 "22",2026-09-26,"wk inc covid prop ed visits","quantile",0.0085,NA
 "23",2026-09-26,"wk inc covid prop ed visits","quantile",0.0025,NA
@@ -20680,11 +20680,11 @@
 "49",2026-09-26,"wk inc covid prop ed visits","quantile",0.0039,NA
 "50",2026-09-26,"wk inc covid prop ed visits","quantile",0.0018,NA
 "51",2026-09-26,"wk inc covid prop ed visits","quantile",0.0043,NA
-"53",2026-09-26,"wk inc covid prop ed visits","quantile",0.0115,NA
+"53",2026-09-26,"wk inc covid prop ed visits","quantile",0.0116,NA
 "54",2026-09-26,"wk inc covid prop ed visits","quantile",0.004,NA
 "55",2026-09-26,"wk inc covid prop ed visits","quantile",0.0018,NA
 "56",2026-09-26,"wk inc covid prop ed visits","quantile",0.0051,NA
-"US",2026-09-26,"wk inc covid hosp","sample",4581,NA
+"US",2026-09-26,"wk inc covid hosp","sample",4636,NA
 "01",2026-09-26,"wk inc covid hosp","sample",105,NA
 "02",2026-09-26,"wk inc covid hosp","sample",3,NA
 "04",2026-09-26,"wk inc covid hosp","sample",70,NA
@@ -20697,8 +20697,8 @@
 "12",2026-09-26,"wk inc covid hosp","sample",587,NA
 "13",2026-09-26,"wk inc covid hosp","sample",99,NA
 "15",2026-09-26,"wk inc covid hosp","sample",44,NA
-"16",2026-09-26,"wk inc covid hosp","sample",16,NA
-"17",2026-09-26,"wk inc covid hosp","sample",71,NA
+"16",2026-09-26,"wk inc covid hosp","sample",22,NA
+"17",2026-09-26,"wk inc covid hosp","sample",73,NA
 "18",2026-09-26,"wk inc covid hosp","sample",29,NA
 "19",2026-09-26,"wk inc covid hosp","sample",17,NA
 "20",2026-09-26,"wk inc covid hosp","sample",6,NA
@@ -20713,7 +20713,7 @@
 "29",2026-09-26,"wk inc covid hosp","sample",47,NA
 "30",2026-09-26,"wk inc covid hosp","sample",5,NA
 "31",2026-09-26,"wk inc covid hosp","sample",6,NA
-"32",2026-09-26,"wk inc covid hosp","sample",31,NA
+"32",2026-09-26,"wk inc covid hosp","sample",41,NA
 "33",2026-09-26,"wk inc covid hosp","sample",16,NA
 "34",2026-09-26,"wk inc covid hosp","sample",139,NA
 "35",2026-09-26,"wk inc covid hosp","sample",6,NA
@@ -20722,7 +20722,7 @@
 "38",2026-09-26,"wk inc covid hosp","sample",3,NA
 "39",2026-09-26,"wk inc covid hosp","sample",72,NA
 "40",2026-09-26,"wk inc covid hosp","sample",14,NA
-"41",2026-09-26,"wk inc covid hosp","sample",57,NA
+"41",2026-09-26,"wk inc covid hosp","sample",58,NA
 "42",2026-09-26,"wk inc covid hosp","sample",181,NA
 "44",2026-09-26,"wk inc covid hosp","sample",7,NA
 "45",2026-09-26,"wk inc covid hosp","sample",70,NA
@@ -20736,7 +20736,7 @@
 "54",2026-09-26,"wk inc covid hosp","sample",21,NA
 "55",2026-09-26,"wk inc covid hosp","sample",31,NA
 "56",2026-09-26,"wk inc covid hosp","sample",5,NA
-"72",2026-09-26,"wk inc covid hosp","sample",81,NA
+"72",2026-09-26,"wk inc covid hosp","sample",117,NA
 "US",2026-09-26,"wk inc covid prop ed visits","sample",0.0053,NA
 "01",2026-09-26,"wk inc covid prop ed visits","sample",0.0058,NA
 "02",2026-09-26,"wk inc covid prop ed visits","sample",0.0031,NA
@@ -20746,15 +20746,15 @@
 "08",2026-09-26,"wk inc covid prop ed visits","sample",0.0031,NA
 "09",2026-09-26,"wk inc covid prop ed visits","sample",0.0052,NA
 "10",2026-09-26,"wk inc covid prop ed visits","sample",0.0038,NA
-"11",2026-09-26,"wk inc covid prop ed visits","sample",0.0031,NA
-"12",2026-09-26,"wk inc covid prop ed visits","sample",0.0086,NA
+"11",2026-09-26,"wk inc covid prop ed visits","sample",0.0032,NA
+"12",2026-09-26,"wk inc covid prop ed visits","sample",0.0087,NA
 "13",2026-09-26,"wk inc covid prop ed visits","sample",0.0048,NA
 "15",2026-09-26,"wk inc covid prop ed visits","sample",0.0163,NA
 "16",2026-09-26,"wk inc covid prop ed visits","sample",0.0049,NA
 "17",2026-09-26,"wk inc covid prop ed visits","sample",0.0021,NA
 "18",2026-09-26,"wk inc covid prop ed visits","sample",0.0017,NA
 "19",2026-09-26,"wk inc covid prop ed visits","sample",NA,NA
-"20",2026-09-26,"wk inc covid prop ed visits","sample",0.0011,NA
+"20",2026-09-26,"wk inc covid prop ed visits","sample",0.0012,NA
 "21",2026-09-26,"wk inc covid prop ed visits","sample",0.0028,NA
 "22",2026-09-26,"wk inc covid prop ed visits","sample",0.0085,NA
 "23",2026-09-26,"wk inc covid prop ed visits","sample",0.0025,NA
@@ -20785,16 +20785,16 @@
 "49",2026-09-26,"wk inc covid prop ed visits","sample",0.0039,NA
 "50",2026-09-26,"wk inc covid prop ed visits","sample",0.0018,NA
 "51",2026-09-26,"wk inc covid prop ed visits","sample",0.0043,NA
-"53",2026-09-26,"wk inc covid prop ed visits","sample",0.0115,NA
+"53",2026-09-26,"wk inc covid prop ed visits","sample",0.0116,NA
 "54",2026-09-26,"wk inc covid prop ed visits","sample",0.004,NA
 "55",2026-09-26,"wk inc covid prop ed visits","sample",0.0018,NA
 "56",2026-09-26,"wk inc covid prop ed visits","sample",0.0051,NA
-"US",2026-10-03,"wk inc covid hosp","quantile",4348,NA
+"US",2026-10-03,"wk inc covid hosp","quantile",4449,NA
 "01",2026-10-03,"wk inc covid hosp","quantile",79,NA
-"02",2026-10-03,"wk inc covid hosp","quantile",6,NA
+"02",2026-10-03,"wk inc covid hosp","quantile",7,NA
 "04",2026-10-03,"wk inc covid hosp","quantile",74,NA
-"05",2026-10-03,"wk inc covid hosp","quantile",15,NA
-"06",2026-10-03,"wk inc covid hosp","quantile",830,NA
+"05",2026-10-03,"wk inc covid hosp","quantile",17,NA
+"06",2026-10-03,"wk inc covid hosp","quantile",839,NA
 "08",2026-10-03,"wk inc covid hosp","quantile",38,NA
 "09",2026-10-03,"wk inc covid hosp","quantile",65,NA
 "10",2026-10-03,"wk inc covid hosp","quantile",11,NA
@@ -20802,9 +20802,9 @@
 "12",2026-10-03,"wk inc covid hosp","quantile",556,NA
 "13",2026-10-03,"wk inc covid hosp","quantile",86,NA
 "15",2026-10-03,"wk inc covid hosp","quantile",27,NA
-"16",2026-10-03,"wk inc covid hosp","quantile",11,NA
+"16",2026-10-03,"wk inc covid hosp","quantile",21,NA
 "17",2026-10-03,"wk inc covid hosp","quantile",67,NA
-"18",2026-10-03,"wk inc covid hosp","quantile",43,NA
+"18",2026-10-03,"wk inc covid hosp","quantile",45,NA
 "19",2026-10-03,"wk inc covid hosp","quantile",17,NA
 "20",2026-10-03,"wk inc covid hosp","quantile",11,NA
 "21",2026-10-03,"wk inc covid hosp","quantile",30,NA
@@ -20816,19 +20816,19 @@
 "27",2026-10-03,"wk inc covid hosp","quantile",36,NA
 "28",2026-10-03,"wk inc covid hosp","quantile",31,NA
 "29",2026-10-03,"wk inc covid hosp","quantile",45,NA
-"30",2026-10-03,"wk inc covid hosp","quantile",11,NA
+"30",2026-10-03,"wk inc covid hosp","quantile",14,NA
 "31",2026-10-03,"wk inc covid hosp","quantile",9,NA
-"32",2026-10-03,"wk inc covid hosp","quantile",49,NA
+"32",2026-10-03,"wk inc covid hosp","quantile",57,NA
 "33",2026-10-03,"wk inc covid hosp","quantile",12,NA
 "34",2026-10-03,"wk inc covid hosp","quantile",164,NA
 "35",2026-10-03,"wk inc covid hosp","quantile",11,NA
-"36",2026-10-03,"wk inc covid hosp","quantile",342,NA
+"36",2026-10-03,"wk inc covid hosp","quantile",345,NA
 "37",2026-10-03,"wk inc covid hosp","quantile",198,NA
-"38",2026-10-03,"wk inc covid hosp","quantile",0,NA
+"38",2026-10-03,"wk inc covid hosp","quantile",1,NA
 "39",2026-10-03,"wk inc covid hosp","quantile",97,NA
 "40",2026-10-03,"wk inc covid hosp","quantile",22,NA
-"41",2026-10-03,"wk inc covid hosp","quantile",65,NA
-"42",2026-10-03,"wk inc covid hosp","quantile",131,NA
+"41",2026-10-03,"wk inc covid hosp","quantile",76,NA
+"42",2026-10-03,"wk inc covid hosp","quantile",142,NA
 "44",2026-10-03,"wk inc covid hosp","quantile",19,NA
 "45",2026-10-03,"wk inc covid hosp","quantile",67,NA
 "46",2026-10-03,"wk inc covid hosp","quantile",11,NA
@@ -20836,19 +20836,19 @@
 "48",2026-10-03,"wk inc covid hosp","quantile",345,NA
 "49",2026-10-03,"wk inc covid hosp","quantile",23,NA
 "50",2026-10-03,"wk inc covid hosp","quantile",2,NA
-"51",2026-10-03,"wk inc covid hosp","quantile",51,NA
-"53",2026-10-03,"wk inc covid hosp","quantile",157,NA
+"51",2026-10-03,"wk inc covid hosp","quantile",53,NA
+"53",2026-10-03,"wk inc covid hosp","quantile",158,NA
 "54",2026-10-03,"wk inc covid hosp","quantile",19,NA
-"55",2026-10-03,"wk inc covid hosp","quantile",51,NA
+"55",2026-10-03,"wk inc covid hosp","quantile",53,NA
 "56",2026-10-03,"wk inc covid hosp","quantile",2,NA
-"72",2026-10-03,"wk inc covid hosp","quantile",73,NA
-"US",2026-10-03,"wk inc covid prop ed visits","quantile",0.0049,NA
-"01",2026-10-03,"wk inc covid prop ed visits","quantile",0.0046,NA
+"72",2026-10-03,"wk inc covid hosp","quantile",106,NA
+"US",2026-10-03,"wk inc covid prop ed visits","quantile",0.005,NA
+"01",2026-10-03,"wk inc covid prop ed visits","quantile",0.0049,NA
 "02",2026-10-03,"wk inc covid prop ed visits","quantile",0.0036,NA
-"04",2026-10-03,"wk inc covid prop ed visits","quantile",0.0042,NA
+"04",2026-10-03,"wk inc covid prop ed visits","quantile",0.0043,NA
 "05",2026-10-03,"wk inc covid prop ed visits","quantile",0.0043,NA
-"06",2026-10-03,"wk inc covid prop ed visits","quantile",0.0066,NA
-"08",2026-10-03,"wk inc covid prop ed visits","quantile",0.0028,NA
+"06",2026-10-03,"wk inc covid prop ed visits","quantile",0.0067,NA
+"08",2026-10-03,"wk inc covid prop ed visits","quantile",0.0029,NA
 "09",2026-10-03,"wk inc covid prop ed visits","quantile",0.0052,NA
 "10",2026-10-03,"wk inc covid prop ed visits","quantile",0.0044,NA
 "11",2026-10-03,"wk inc covid prop ed visits","quantile",0.0045,NA
@@ -20856,50 +20856,50 @@
 "13",2026-10-03,"wk inc covid prop ed visits","quantile",0.0049,NA
 "15",2026-10-03,"wk inc covid prop ed visits","quantile",0.0155,NA
 "16",2026-10-03,"wk inc covid prop ed visits","quantile",0.0064,NA
-"17",2026-10-03,"wk inc covid prop ed visits","quantile",0.0022,NA
+"17",2026-10-03,"wk inc covid prop ed visits","quantile",0.0023,NA
 "18",2026-10-03,"wk inc covid prop ed visits","quantile",0.0022,NA
 "19",2026-10-03,"wk inc covid prop ed visits","quantile",NA,NA
 "20",2026-10-03,"wk inc covid prop ed visits","quantile",0.0018,NA
 "21",2026-10-03,"wk inc covid prop ed visits","quantile",0.0036,NA
-"22",2026-10-03,"wk inc covid prop ed visits","quantile",0.007,NA
+"22",2026-10-03,"wk inc covid prop ed visits","quantile",0.0071,NA
 "23",2026-10-03,"wk inc covid prop ed visits","quantile",0.0025,NA
 "24",2026-10-03,"wk inc covid prop ed visits","quantile",0.0038,NA
 "25",2026-10-03,"wk inc covid prop ed visits","quantile",0.0042,NA
 "26",2026-10-03,"wk inc covid prop ed visits","quantile",0.0016,NA
 "27",2026-10-03,"wk inc covid prop ed visits","quantile",0.003,NA
-"28",2026-10-03,"wk inc covid prop ed visits","quantile",0.0049,NA
+"28",2026-10-03,"wk inc covid prop ed visits","quantile",0.005,NA
 "29",2026-10-03,"wk inc covid prop ed visits","quantile",0.0026,NA
 "30",2026-10-03,"wk inc covid prop ed visits","quantile",0.0034,NA
 "31",2026-10-03,"wk inc covid prop ed visits","quantile",0.0013,NA
-"32",2026-10-03,"wk inc covid prop ed visits","quantile",0.0055,NA
+"32",2026-10-03,"wk inc covid prop ed visits","quantile",0.0056,NA
 "33",2026-10-03,"wk inc covid prop ed visits","quantile",0.0047,NA
 "34",2026-10-03,"wk inc covid prop ed visits","quantile",0.0056,NA
 "35",2026-10-03,"wk inc covid prop ed visits","quantile",0.003,NA
 "36",2026-10-03,"wk inc covid prop ed visits","quantile",0.0048,NA
-"37",2026-10-03,"wk inc covid prop ed visits","quantile",0.0068,NA
+"37",2026-10-03,"wk inc covid prop ed visits","quantile",0.0069,NA
 "38",2026-10-03,"wk inc covid prop ed visits","quantile",0.001,NA
 "39",2026-10-03,"wk inc covid prop ed visits","quantile",0.002,NA
 "40",2026-10-03,"wk inc covid prop ed visits","quantile",0.0023,NA
 "41",2026-10-03,"wk inc covid prop ed visits","quantile",0.0106,NA
 "42",2026-10-03,"wk inc covid prop ed visits","quantile",0.0023,NA
 "44",2026-10-03,"wk inc covid prop ed visits","quantile",0.004,NA
-"45",2026-10-03,"wk inc covid prop ed visits","quantile",0.0054,NA
+"45",2026-10-03,"wk inc covid prop ed visits","quantile",0.0055,NA
 "46",2026-10-03,"wk inc covid prop ed visits","quantile",0.0024,NA
 "47",2026-10-03,"wk inc covid prop ed visits","quantile",0.0047,NA
 "48",2026-10-03,"wk inc covid prop ed visits","quantile",0.0066,NA
 "49",2026-10-03,"wk inc covid prop ed visits","quantile",0.0038,NA
-"50",2026-10-03,"wk inc covid prop ed visits","quantile",0.003,NA
+"50",2026-10-03,"wk inc covid prop ed visits","quantile",0.0032,NA
 "51",2026-10-03,"wk inc covid prop ed visits","quantile",0.005,NA
-"53",2026-10-03,"wk inc covid prop ed visits","quantile",0.0102,NA
-"54",2026-10-03,"wk inc covid prop ed visits","quantile",0.0036,NA
+"53",2026-10-03,"wk inc covid prop ed visits","quantile",0.0103,NA
+"54",2026-10-03,"wk inc covid prop ed visits","quantile",0.0037,NA
 "55",2026-10-03,"wk inc covid prop ed visits","quantile",0.0024,NA
 "56",2026-10-03,"wk inc covid prop ed visits","quantile",0.0065,NA
-"US",2026-10-03,"wk inc covid hosp","sample",4348,NA
+"US",2026-10-03,"wk inc covid hosp","sample",4449,NA
 "01",2026-10-03,"wk inc covid hosp","sample",79,NA
-"02",2026-10-03,"wk inc covid hosp","sample",6,NA
+"02",2026-10-03,"wk inc covid hosp","sample",7,NA
 "04",2026-10-03,"wk inc covid hosp","sample",74,NA
-"05",2026-10-03,"wk inc covid hosp","sample",15,NA
-"06",2026-10-03,"wk inc covid hosp","sample",830,NA
+"05",2026-10-03,"wk inc covid hosp","sample",17,NA
+"06",2026-10-03,"wk inc covid hosp","sample",839,NA
 "08",2026-10-03,"wk inc covid hosp","sample",38,NA
 "09",2026-10-03,"wk inc covid hosp","sample",65,NA
 "10",2026-10-03,"wk inc covid hosp","sample",11,NA
@@ -20907,9 +20907,9 @@
 "12",2026-10-03,"wk inc covid hosp","sample",556,NA
 "13",2026-10-03,"wk inc covid hosp","sample",86,NA
 "15",2026-10-03,"wk inc covid hosp","sample",27,NA
-"16",2026-10-03,"wk inc covid hosp","sample",11,NA
+"16",2026-10-03,"wk inc covid hosp","sample",21,NA
 "17",2026-10-03,"wk inc covid hosp","sample",67,NA
-"18",2026-10-03,"wk inc covid hosp","sample",43,NA
+"18",2026-10-03,"wk inc covid hosp","sample",45,NA
 "19",2026-10-03,"wk inc covid hosp","sample",17,NA
 "20",2026-10-03,"wk inc covid hosp","sample",11,NA
 "21",2026-10-03,"wk inc covid hosp","sample",30,NA
@@ -20921,19 +20921,19 @@
 "27",2026-10-03,"wk inc covid hosp","sample",36,NA
 "28",2026-10-03,"wk inc covid hosp","sample",31,NA
 "29",2026-10-03,"wk inc covid hosp","sample",45,NA
-"30",2026-10-03,"wk inc covid hosp","sample",11,NA
+"30",2026-10-03,"wk inc covid hosp","sample",14,NA
 "31",2026-10-03,"wk inc covid hosp","sample",9,NA
-"32",2026-10-03,"wk inc covid hosp","sample",49,NA
+"32",2026-10-03,"wk inc covid hosp","sample",57,NA
 "33",2026-10-03,"wk inc covid hosp","sample",12,NA
 "34",2026-10-03,"wk inc covid hosp","sample",164,NA
 "35",2026-10-03,"wk inc covid hosp","sample",11,NA
-"36",2026-10-03,"wk inc covid hosp","sample",342,NA
+"36",2026-10-03,"wk inc covid hosp","sample",345,NA
 "37",2026-10-03,"wk inc covid hosp","sample",198,NA
-"38",2026-10-03,"wk inc covid hosp","sample",0,NA
+"38",2026-10-03,"wk inc covid hosp","sample",1,NA
 "39",2026-10-03,"wk inc covid hosp","sample",97,NA
 "40",2026-10-03,"wk inc covid hosp","sample",22,NA
-"41",2026-10-03,"wk inc covid hosp","sample",65,NA
-"42",2026-10-03,"wk inc covid hosp","sample",131,NA
+"41",2026-10-03,"wk inc covid hosp","sample",76,NA
+"42",2026-10-03,"wk inc covid hosp","sample",142,NA
 "44",2026-10-03,"wk inc covid hosp","sample",19,NA
 "45",2026-10-03,"wk inc covid hosp","sample",67,NA
 "46",2026-10-03,"wk inc covid hosp","sample",11,NA
@@ -20941,19 +20941,19 @@
 "48",2026-10-03,"wk inc covid hosp","sample",345,NA
 "49",2026-10-03,"wk inc covid hosp","sample",23,NA
 "50",2026-10-03,"wk inc covid hosp","sample",2,NA
-"51",2026-10-03,"wk inc covid hosp","sample",51,NA
-"53",2026-10-03,"wk inc covid hosp","sample",157,NA
+"51",2026-10-03,"wk inc covid hosp","sample",53,NA
+"53",2026-10-03,"wk inc covid hosp","sample",158,NA
 "54",2026-10-03,"wk inc covid hosp","sample",19,NA
-"55",2026-10-03,"wk inc covid hosp","sample",51,NA
+"55",2026-10-03,"wk inc covid hosp","sample",53,NA
 "56",2026-10-03,"wk inc covid hosp","sample",2,NA
-"72",2026-10-03,"wk inc covid hosp","sample",73,NA
-"US",2026-10-03,"wk inc covid prop ed visits","sample",0.0049,NA
-"01",2026-10-03,"wk inc covid prop ed visits","sample",0.0046,NA
+"72",2026-10-03,"wk inc covid hosp","sample",106,NA
+"US",2026-10-03,"wk inc covid prop ed visits","sample",0.005,NA
+"01",2026-10-03,"wk inc covid prop ed visits","sample",0.0049,NA
 "02",2026-10-03,"wk inc covid prop ed visits","sample",0.0036,NA
-"04",2026-10-03,"wk inc covid prop ed visits","sample",0.0042,NA
+"04",2026-10-03,"wk inc covid prop ed visits","sample",0.0043,NA
 "05",2026-10-03,"wk inc covid prop ed visits","sample",0.0043,NA
-"06",2026-10-03,"wk inc covid prop ed visits","sample",0.0066,NA
-"08",2026-10-03,"wk inc covid prop ed visits","sample",0.0028,NA
+"06",2026-10-03,"wk inc covid prop ed visits","sample",0.0067,NA
+"08",2026-10-03,"wk inc covid prop ed visits","sample",0.0029,NA
 "09",2026-10-03,"wk inc covid prop ed visits","sample",0.0052,NA
 "10",2026-10-03,"wk inc covid prop ed visits","sample",0.0044,NA
 "11",2026-10-03,"wk inc covid prop ed visits","sample",0.0045,NA
@@ -20961,251 +20961,461 @@
 "13",2026-10-03,"wk inc covid prop ed visits","sample",0.0049,NA
 "15",2026-10-03,"wk inc covid prop ed visits","sample",0.0155,NA
 "16",2026-10-03,"wk inc covid prop ed visits","sample",0.0064,NA
-"17",2026-10-03,"wk inc covid prop ed visits","sample",0.0022,NA
+"17",2026-10-03,"wk inc covid prop ed visits","sample",0.0023,NA
 "18",2026-10-03,"wk inc covid prop ed visits","sample",0.0022,NA
 "19",2026-10-03,"wk inc covid prop ed visits","sample",NA,NA
 "20",2026-10-03,"wk inc covid prop ed visits","sample",0.0018,NA
 "21",2026-10-03,"wk inc covid prop ed visits","sample",0.0036,NA
-"22",2026-10-03,"wk inc covid prop ed visits","sample",0.007,NA
+"22",2026-10-03,"wk inc covid prop ed visits","sample",0.0071,NA
 "23",2026-10-03,"wk inc covid prop ed visits","sample",0.0025,NA
 "24",2026-10-03,"wk inc covid prop ed visits","sample",0.0038,NA
 "25",2026-10-03,"wk inc covid prop ed visits","sample",0.0042,NA
 "26",2026-10-03,"wk inc covid prop ed visits","sample",0.0016,NA
 "27",2026-10-03,"wk inc covid prop ed visits","sample",0.003,NA
-"28",2026-10-03,"wk inc covid prop ed visits","sample",0.0049,NA
+"28",2026-10-03,"wk inc covid prop ed visits","sample",0.005,NA
 "29",2026-10-03,"wk inc covid prop ed visits","sample",0.0026,NA
 "30",2026-10-03,"wk inc covid prop ed visits","sample",0.0034,NA
 "31",2026-10-03,"wk inc covid prop ed visits","sample",0.0013,NA
-"32",2026-10-03,"wk inc covid prop ed visits","sample",0.0055,NA
+"32",2026-10-03,"wk inc covid prop ed visits","sample",0.0056,NA
 "33",2026-10-03,"wk inc covid prop ed visits","sample",0.0047,NA
 "34",2026-10-03,"wk inc covid prop ed visits","sample",0.0056,NA
 "35",2026-10-03,"wk inc covid prop ed visits","sample",0.003,NA
 "36",2026-10-03,"wk inc covid prop ed visits","sample",0.0048,NA
-"37",2026-10-03,"wk inc covid prop ed visits","sample",0.0068,NA
+"37",2026-10-03,"wk inc covid prop ed visits","sample",0.0069,NA
 "38",2026-10-03,"wk inc covid prop ed visits","sample",0.001,NA
 "39",2026-10-03,"wk inc covid prop ed visits","sample",0.002,NA
 "40",2026-10-03,"wk inc covid prop ed visits","sample",0.0023,NA
 "41",2026-10-03,"wk inc covid prop ed visits","sample",0.0106,NA
 "42",2026-10-03,"wk inc covid prop ed visits","sample",0.0023,NA
 "44",2026-10-03,"wk inc covid prop ed visits","sample",0.004,NA
-"45",2026-10-03,"wk inc covid prop ed visits","sample",0.0054,NA
+"45",2026-10-03,"wk inc covid prop ed visits","sample",0.0055,NA
 "46",2026-10-03,"wk inc covid prop ed visits","sample",0.0024,NA
 "47",2026-10-03,"wk inc covid prop ed visits","sample",0.0047,NA
 "48",2026-10-03,"wk inc covid prop ed visits","sample",0.0066,NA
 "49",2026-10-03,"wk inc covid prop ed visits","sample",0.0038,NA
-"50",2026-10-03,"wk inc covid prop ed visits","sample",0.003,NA
+"50",2026-10-03,"wk inc covid prop ed visits","sample",0.0032,NA
 "51",2026-10-03,"wk inc covid prop ed visits","sample",0.005,NA
-"53",2026-10-03,"wk inc covid prop ed visits","sample",0.0102,NA
-"54",2026-10-03,"wk inc covid prop ed visits","sample",0.0036,NA
+"53",2026-10-03,"wk inc covid prop ed visits","sample",0.0103,NA
+"54",2026-10-03,"wk inc covid prop ed visits","sample",0.0037,NA
 "55",2026-10-03,"wk inc covid prop ed visits","sample",0.0024,NA
 "56",2026-10-03,"wk inc covid prop ed visits","sample",0.0065,NA
-"US",2026-10-10,"wk inc covid hosp","quantile",3799,NA
-"01",2026-10-10,"wk inc covid hosp","quantile",73,NA
-"02",2026-10-10,"wk inc covid hosp","quantile",2,NA
-"04",2026-10-10,"wk inc covid hosp","quantile",62,NA
-"05",2026-10-10,"wk inc covid hosp","quantile",17,NA
-"06",2026-10-10,"wk inc covid hosp","quantile",630,NA
-"08",2026-10-10,"wk inc covid hosp","quantile",29,NA
-"09",2026-10-10,"wk inc covid hosp","quantile",55,NA
+"US",2026-10-10,"wk inc covid hosp","quantile",4131,NA
+"01",2026-10-10,"wk inc covid hosp","quantile",83,NA
+"02",2026-10-10,"wk inc covid hosp","quantile",3,NA
+"04",2026-10-10,"wk inc covid hosp","quantile",64,NA
+"05",2026-10-10,"wk inc covid hosp","quantile",19,NA
+"06",2026-10-10,"wk inc covid hosp","quantile",675,NA
+"08",2026-10-10,"wk inc covid hosp","quantile",35,NA
+"09",2026-10-10,"wk inc covid hosp","quantile",56,NA
 "10",2026-10-10,"wk inc covid hosp","quantile",10,NA
 "11",2026-10-10,"wk inc covid hosp","quantile",16,NA
-"12",2026-10-10,"wk inc covid hosp","quantile",473,NA
-"13",2026-10-10,"wk inc covid hosp","quantile",84,NA
+"12",2026-10-10,"wk inc covid hosp","quantile",529,NA
+"13",2026-10-10,"wk inc covid hosp","quantile",85,NA
 "15",2026-10-10,"wk inc covid hosp","quantile",27,NA
-"16",2026-10-10,"wk inc covid hosp","quantile",9,NA
-"17",2026-10-10,"wk inc covid hosp","quantile",76,NA
-"18",2026-10-10,"wk inc covid hosp","quantile",28,NA
+"16",2026-10-10,"wk inc covid hosp","quantile",21,NA
+"17",2026-10-10,"wk inc covid hosp","quantile",79,NA
+"18",2026-10-10,"wk inc covid hosp","quantile",32,NA
 "19",2026-10-10,"wk inc covid hosp","quantile",22,NA
 "20",2026-10-10,"wk inc covid hosp","quantile",11,NA
-"21",2026-10-10,"wk inc covid hosp","quantile",31,NA
-"22",2026-10-10,"wk inc covid hosp","quantile",77,NA
+"21",2026-10-10,"wk inc covid hosp","quantile",38,NA
+"22",2026-10-10,"wk inc covid hosp","quantile",78,NA
 "23",2026-10-10,"wk inc covid hosp","quantile",4,NA
-"24",2026-10-10,"wk inc covid hosp","quantile",45,NA
-"25",2026-10-10,"wk inc covid hosp","quantile",48,NA
+"24",2026-10-10,"wk inc covid hosp","quantile",46,NA
+"25",2026-10-10,"wk inc covid hosp","quantile",62,NA
 "26",2026-10-10,"wk inc covid hosp","quantile",45,NA
 "27",2026-10-10,"wk inc covid hosp","quantile",21,NA
-"28",2026-10-10,"wk inc covid hosp","quantile",24,NA
+"28",2026-10-10,"wk inc covid hosp","quantile",27,NA
 "29",2026-10-10,"wk inc covid hosp","quantile",30,NA
 "30",2026-10-10,"wk inc covid hosp","quantile",13,NA
 "31",2026-10-10,"wk inc covid hosp","quantile",7,NA
-"32",2026-10-10,"wk inc covid hosp","quantile",25,NA
+"32",2026-10-10,"wk inc covid hosp","quantile",32,NA
 "33",2026-10-10,"wk inc covid hosp","quantile",7,NA
 "34",2026-10-10,"wk inc covid hosp","quantile",167,NA
-"35",2026-10-10,"wk inc covid hosp","quantile",15,NA
-"36",2026-10-10,"wk inc covid hosp","quantile",308,NA
-"37",2026-10-10,"wk inc covid hosp","quantile",219,NA
+"35",2026-10-10,"wk inc covid hosp","quantile",16,NA
+"36",2026-10-10,"wk inc covid hosp","quantile",314,NA
+"37",2026-10-10,"wk inc covid hosp","quantile",232,NA
 "38",2026-10-10,"wk inc covid hosp","quantile",3,NA
-"39",2026-10-10,"wk inc covid hosp","quantile",83,NA
+"39",2026-10-10,"wk inc covid hosp","quantile",86,NA
 "40",2026-10-10,"wk inc covid hosp","quantile",16,NA
-"41",2026-10-10,"wk inc covid hosp","quantile",65,NA
-"42",2026-10-10,"wk inc covid hosp","quantile",140,NA
+"41",2026-10-10,"wk inc covid hosp","quantile",80,NA
+"42",2026-10-10,"wk inc covid hosp","quantile",149,NA
 "44",2026-10-10,"wk inc covid hosp","quantile",16,NA
 "45",2026-10-10,"wk inc covid hosp","quantile",56,NA
 "46",2026-10-10,"wk inc covid hosp","quantile",1,NA
-"47",2026-10-10,"wk inc covid hosp","quantile",69,NA
-"48",2026-10-10,"wk inc covid hosp","quantile",312,NA
+"47",2026-10-10,"wk inc covid hosp","quantile",72,NA
+"48",2026-10-10,"wk inc covid hosp","quantile",334,NA
 "49",2026-10-10,"wk inc covid hosp","quantile",16,NA
 "50",2026-10-10,"wk inc covid hosp","quantile",3,NA
-"51",2026-10-10,"wk inc covid hosp","quantile",48,NA
-"53",2026-10-10,"wk inc covid hosp","quantile",118,NA
+"51",2026-10-10,"wk inc covid hosp","quantile",55,NA
+"53",2026-10-10,"wk inc covid hosp","quantile",154,NA
 "54",2026-10-10,"wk inc covid hosp","quantile",26,NA
-"55",2026-10-10,"wk inc covid hosp","quantile",30,NA
-"56",2026-10-10,"wk inc covid hosp","quantile",1,NA
-"72",2026-10-10,"wk inc covid hosp","quantile",86,NA
-"US",2026-10-10,"wk inc covid prop ed visits","quantile",0.0044,NA
-"01",2026-10-10,"wk inc covid prop ed visits","quantile",0.0036,NA
-"02",2026-10-10,"wk inc covid prop ed visits","quantile",0.0027,NA
-"04",2026-10-10,"wk inc covid prop ed visits","quantile",0.0046,NA
-"05",2026-10-10,"wk inc covid prop ed visits","quantile",0.004,NA
+"55",2026-10-10,"wk inc covid hosp","quantile",31,NA
+"56",2026-10-10,"wk inc covid hosp","quantile",3,NA
+"72",2026-10-10,"wk inc covid hosp","quantile",124,NA
+"US",2026-10-10,"wk inc covid prop ed visits","quantile",0.0046,NA
+"01",2026-10-10,"wk inc covid prop ed visits","quantile",0.0047,NA
+"02",2026-10-10,"wk inc covid prop ed visits","quantile",0.0029,NA
+"04",2026-10-10,"wk inc covid prop ed visits","quantile",0.0048,NA
+"05",2026-10-10,"wk inc covid prop ed visits","quantile",0.0044,NA
 "06",2026-10-10,"wk inc covid prop ed visits","quantile",0.0056,NA
 "08",2026-10-10,"wk inc covid prop ed visits","quantile",0.0028,NA
 "09",2026-10-10,"wk inc covid prop ed visits","quantile",0.0049,NA
-"10",2026-10-10,"wk inc covid prop ed visits","quantile",0.0058,NA
-"11",2026-10-10,"wk inc covid prop ed visits","quantile",0.003,NA
-"12",2026-10-10,"wk inc covid prop ed visits","quantile",0.0069,NA
+"10",2026-10-10,"wk inc covid prop ed visits","quantile",0.006,NA
+"11",2026-10-10,"wk inc covid prop ed visits","quantile",0.0032,NA
+"12",2026-10-10,"wk inc covid prop ed visits","quantile",0.0072,NA
 "13",2026-10-10,"wk inc covid prop ed visits","quantile",0.0044,NA
-"15",2026-10-10,"wk inc covid prop ed visits","quantile",0.0114,NA
-"16",2026-10-10,"wk inc covid prop ed visits","quantile",0.0051,NA
-"17",2026-10-10,"wk inc covid prop ed visits","quantile",0.0017,NA
+"15",2026-10-10,"wk inc covid prop ed visits","quantile",0.0116,NA
+"16",2026-10-10,"wk inc covid prop ed visits","quantile",0.0052,NA
+"17",2026-10-10,"wk inc covid prop ed visits","quantile",0.002,NA
 "18",2026-10-10,"wk inc covid prop ed visits","quantile",0.0025,NA
 "19",2026-10-10,"wk inc covid prop ed visits","quantile",NA,NA
-"20",2026-10-10,"wk inc covid prop ed visits","quantile",0.0016,NA
-"21",2026-10-10,"wk inc covid prop ed visits","quantile",0.0037,NA
-"22",2026-10-10,"wk inc covid prop ed visits","quantile",0.0062,NA
-"23",2026-10-10,"wk inc covid prop ed visits","quantile",0.0028,NA
+"20",2026-10-10,"wk inc covid prop ed visits","quantile",0.0018,NA
+"21",2026-10-10,"wk inc covid prop ed visits","quantile",0.004,NA
+"22",2026-10-10,"wk inc covid prop ed visits","quantile",0.0066,NA
+"23",2026-10-10,"wk inc covid prop ed visits","quantile",0.0032,NA
 "24",2026-10-10,"wk inc covid prop ed visits","quantile",0.0042,NA
-"25",2026-10-10,"wk inc covid prop ed visits","quantile",0.0037,NA
+"25",2026-10-10,"wk inc covid prop ed visits","quantile",0.0039,NA
 "26",2026-10-10,"wk inc covid prop ed visits","quantile",0.0014,NA
-"27",2026-10-10,"wk inc covid prop ed visits","quantile",0.0029,NA
-"28",2026-10-10,"wk inc covid prop ed visits","quantile",0.0041,NA
-"29",2026-10-10,"wk inc covid prop ed visits","quantile",0.0024,NA
-"30",2026-10-10,"wk inc covid prop ed visits","quantile",0.004,NA
+"27",2026-10-10,"wk inc covid prop ed visits","quantile",0.003,NA
+"28",2026-10-10,"wk inc covid prop ed visits","quantile",0.0042,NA
+"29",2026-10-10,"wk inc covid prop ed visits","quantile",0.0028,NA
+"30",2026-10-10,"wk inc covid prop ed visits","quantile",0.0041,NA
 "31",2026-10-10,"wk inc covid prop ed visits","quantile",0.0016,NA
-"32",2026-10-10,"wk inc covid prop ed visits","quantile",0.0063,NA
-"33",2026-10-10,"wk inc covid prop ed visits","quantile",0.0029,NA
-"34",2026-10-10,"wk inc covid prop ed visits","quantile",0.0047,NA
-"35",2026-10-10,"wk inc covid prop ed visits","quantile",0.0036,NA
-"36",2026-10-10,"wk inc covid prop ed visits","quantile",0.0037,NA
-"37",2026-10-10,"wk inc covid prop ed visits","quantile",0.0062,NA
+"32",2026-10-10,"wk inc covid prop ed visits","quantile",0.0068,NA
+"33",2026-10-10,"wk inc covid prop ed visits","quantile",0.003,NA
+"34",2026-10-10,"wk inc covid prop ed visits","quantile",0.005,NA
+"35",2026-10-10,"wk inc covid prop ed visits","quantile",0.0039,NA
+"36",2026-10-10,"wk inc covid prop ed visits","quantile",0.0039,NA
+"37",2026-10-10,"wk inc covid prop ed visits","quantile",0.0065,NA
 "38",2026-10-10,"wk inc covid prop ed visits","quantile",9e-04,NA
 "39",2026-10-10,"wk inc covid prop ed visits","quantile",0.0018,NA
 "40",2026-10-10,"wk inc covid prop ed visits","quantile",0.002,NA
-"41",2026-10-10,"wk inc covid prop ed visits","quantile",0.0096,NA
-"42",2026-10-10,"wk inc covid prop ed visits","quantile",0.0023,NA
+"41",2026-10-10,"wk inc covid prop ed visits","quantile",0.0099,NA
+"42",2026-10-10,"wk inc covid prop ed visits","quantile",0.0022,NA
 "44",2026-10-10,"wk inc covid prop ed visits","quantile",0.0038,NA
 "45",2026-10-10,"wk inc covid prop ed visits","quantile",0.0047,NA
 "46",2026-10-10,"wk inc covid prop ed visits","quantile",0.0016,NA
-"47",2026-10-10,"wk inc covid prop ed visits","quantile",0.0044,NA
-"48",2026-10-10,"wk inc covid prop ed visits","quantile",0.0058,NA
-"49",2026-10-10,"wk inc covid prop ed visits","quantile",0.0046,NA
-"50",2026-10-10,"wk inc covid prop ed visits","quantile",0.0013,NA
-"51",2026-10-10,"wk inc covid prop ed visits","quantile",0.0053,NA
-"53",2026-10-10,"wk inc covid prop ed visits","quantile",0.0088,NA
-"54",2026-10-10,"wk inc covid prop ed visits","quantile",0.0034,NA
-"55",2026-10-10,"wk inc covid prop ed visits","quantile",0.0015,NA
-"56",2026-10-10,"wk inc covid prop ed visits","quantile",0.0057,NA
-"US",2026-10-10,"wk inc covid hosp","sample",3799,NA
-"01",2026-10-10,"wk inc covid hosp","sample",73,NA
-"02",2026-10-10,"wk inc covid hosp","sample",2,NA
-"04",2026-10-10,"wk inc covid hosp","sample",62,NA
-"05",2026-10-10,"wk inc covid hosp","sample",17,NA
-"06",2026-10-10,"wk inc covid hosp","sample",630,NA
-"08",2026-10-10,"wk inc covid hosp","sample",29,NA
-"09",2026-10-10,"wk inc covid hosp","sample",55,NA
+"47",2026-10-10,"wk inc covid prop ed visits","quantile",0.0051,NA
+"48",2026-10-10,"wk inc covid prop ed visits","quantile",0.0059,NA
+"49",2026-10-10,"wk inc covid prop ed visits","quantile",0.0047,NA
+"50",2026-10-10,"wk inc covid prop ed visits","quantile",0.0015,NA
+"51",2026-10-10,"wk inc covid prop ed visits","quantile",0.0054,NA
+"53",2026-10-10,"wk inc covid prop ed visits","quantile",0.0093,NA
+"54",2026-10-10,"wk inc covid prop ed visits","quantile",0.004,NA
+"55",2026-10-10,"wk inc covid prop ed visits","quantile",0.0016,NA
+"56",2026-10-10,"wk inc covid prop ed visits","quantile",0.0059,NA
+"US",2026-10-10,"wk inc covid hosp","sample",4131,NA
+"01",2026-10-10,"wk inc covid hosp","sample",83,NA
+"02",2026-10-10,"wk inc covid hosp","sample",3,NA
+"04",2026-10-10,"wk inc covid hosp","sample",64,NA
+"05",2026-10-10,"wk inc covid hosp","sample",19,NA
+"06",2026-10-10,"wk inc covid hosp","sample",675,NA
+"08",2026-10-10,"wk inc covid hosp","sample",35,NA
+"09",2026-10-10,"wk inc covid hosp","sample",56,NA
 "10",2026-10-10,"wk inc covid hosp","sample",10,NA
 "11",2026-10-10,"wk inc covid hosp","sample",16,NA
-"12",2026-10-10,"wk inc covid hosp","sample",473,NA
-"13",2026-10-10,"wk inc covid hosp","sample",84,NA
+"12",2026-10-10,"wk inc covid hosp","sample",529,NA
+"13",2026-10-10,"wk inc covid hosp","sample",85,NA
 "15",2026-10-10,"wk inc covid hosp","sample",27,NA
-"16",2026-10-10,"wk inc covid hosp","sample",9,NA
-"17",2026-10-10,"wk inc covid hosp","sample",76,NA
-"18",2026-10-10,"wk inc covid hosp","sample",28,NA
+"16",2026-10-10,"wk inc covid hosp","sample",21,NA
+"17",2026-10-10,"wk inc covid hosp","sample",79,NA
+"18",2026-10-10,"wk inc covid hosp","sample",32,NA
 "19",2026-10-10,"wk inc covid hosp","sample",22,NA
 "20",2026-10-10,"wk inc covid hosp","sample",11,NA
-"21",2026-10-10,"wk inc covid hosp","sample",31,NA
-"22",2026-10-10,"wk inc covid hosp","sample",77,NA
+"21",2026-10-10,"wk inc covid hosp","sample",38,NA
+"22",2026-10-10,"wk inc covid hosp","sample",78,NA
 "23",2026-10-10,"wk inc covid hosp","sample",4,NA
-"24",2026-10-10,"wk inc covid hosp","sample",45,NA
-"25",2026-10-10,"wk inc covid hosp","sample",48,NA
+"24",2026-10-10,"wk inc covid hosp","sample",46,NA
+"25",2026-10-10,"wk inc covid hosp","sample",62,NA
 "26",2026-10-10,"wk inc covid hosp","sample",45,NA
 "27",2026-10-10,"wk inc covid hosp","sample",21,NA
-"28",2026-10-10,"wk inc covid hosp","sample",24,NA
+"28",2026-10-10,"wk inc covid hosp","sample",27,NA
 "29",2026-10-10,"wk inc covid hosp","sample",30,NA
 "30",2026-10-10,"wk inc covid hosp","sample",13,NA
 "31",2026-10-10,"wk inc covid hosp","sample",7,NA
-"32",2026-10-10,"wk inc covid hosp","sample",25,NA
+"32",2026-10-10,"wk inc covid hosp","sample",32,NA
 "33",2026-10-10,"wk inc covid hosp","sample",7,NA
 "34",2026-10-10,"wk inc covid hosp","sample",167,NA
-"35",2026-10-10,"wk inc covid hosp","sample",15,NA
-"36",2026-10-10,"wk inc covid hosp","sample",308,NA
-"37",2026-10-10,"wk inc covid hosp","sample",219,NA
+"35",2026-10-10,"wk inc covid hosp","sample",16,NA
+"36",2026-10-10,"wk inc covid hosp","sample",314,NA
+"37",2026-10-10,"wk inc covid hosp","sample",232,NA
 "38",2026-10-10,"wk inc covid hosp","sample",3,NA
-"39",2026-10-10,"wk inc covid hosp","sample",83,NA
+"39",2026-10-10,"wk inc covid hosp","sample",86,NA
 "40",2026-10-10,"wk inc covid hosp","sample",16,NA
-"41",2026-10-10,"wk inc covid hosp","sample",65,NA
-"42",2026-10-10,"wk inc covid hosp","sample",140,NA
+"41",2026-10-10,"wk inc covid hosp","sample",80,NA
+"42",2026-10-10,"wk inc covid hosp","sample",149,NA
 "44",2026-10-10,"wk inc covid hosp","sample",16,NA
 "45",2026-10-10,"wk inc covid hosp","sample",56,NA
 "46",2026-10-10,"wk inc covid hosp","sample",1,NA
-"47",2026-10-10,"wk inc covid hosp","sample",69,NA
-"48",2026-10-10,"wk inc covid hosp","sample",312,NA
+"47",2026-10-10,"wk inc covid hosp","sample",72,NA
+"48",2026-10-10,"wk inc covid hosp","sample",334,NA
 "49",2026-10-10,"wk inc covid hosp","sample",16,NA
 "50",2026-10-10,"wk inc covid hosp","sample",3,NA
-"51",2026-10-10,"wk inc covid hosp","sample",48,NA
-"53",2026-10-10,"wk inc covid hosp","sample",118,NA
+"51",2026-10-10,"wk inc covid hosp","sample",55,NA
+"53",2026-10-10,"wk inc covid hosp","sample",154,NA
 "54",2026-10-10,"wk inc covid hosp","sample",26,NA
-"55",2026-10-10,"wk inc covid hosp","sample",30,NA
-"56",2026-10-10,"wk inc covid hosp","sample",1,NA
-"72",2026-10-10,"wk inc covid hosp","sample",86,NA
-"US",2026-10-10,"wk inc covid prop ed visits","sample",0.0044,NA
-"01",2026-10-10,"wk inc covid prop ed visits","sample",0.0036,NA
-"02",2026-10-10,"wk inc covid prop ed visits","sample",0.0027,NA
-"04",2026-10-10,"wk inc covid prop ed visits","sample",0.0046,NA
-"05",2026-10-10,"wk inc covid prop ed visits","sample",0.004,NA
+"55",2026-10-10,"wk inc covid hosp","sample",31,NA
+"56",2026-10-10,"wk inc covid hosp","sample",3,NA
+"72",2026-10-10,"wk inc covid hosp","sample",124,NA
+"US",2026-10-10,"wk inc covid prop ed visits","sample",0.0046,NA
+"01",2026-10-10,"wk inc covid prop ed visits","sample",0.0047,NA
+"02",2026-10-10,"wk inc covid prop ed visits","sample",0.0029,NA
+"04",2026-10-10,"wk inc covid prop ed visits","sample",0.0048,NA
+"05",2026-10-10,"wk inc covid prop ed visits","sample",0.0044,NA
 "06",2026-10-10,"wk inc covid prop ed visits","sample",0.0056,NA
 "08",2026-10-10,"wk inc covid prop ed visits","sample",0.0028,NA
 "09",2026-10-10,"wk inc covid prop ed visits","sample",0.0049,NA
-"10",2026-10-10,"wk inc covid prop ed visits","sample",0.0058,NA
-"11",2026-10-10,"wk inc covid prop ed visits","sample",0.003,NA
-"12",2026-10-10,"wk inc covid prop ed visits","sample",0.0069,NA
+"10",2026-10-10,"wk inc covid prop ed visits","sample",0.006,NA
+"11",2026-10-10,"wk inc covid prop ed visits","sample",0.0032,NA
+"12",2026-10-10,"wk inc covid prop ed visits","sample",0.0072,NA
 "13",2026-10-10,"wk inc covid prop ed visits","sample",0.0044,NA
-"15",2026-10-10,"wk inc covid prop ed visits","sample",0.0114,NA
-"16",2026-10-10,"wk inc covid prop ed visits","sample",0.0051,NA
-"17",2026-10-10,"wk inc covid prop ed visits","sample",0.0017,NA
+"15",2026-10-10,"wk inc covid prop ed visits","sample",0.0116,NA
+"16",2026-10-10,"wk inc covid prop ed visits","sample",0.0052,NA
+"17",2026-10-10,"wk inc covid prop ed visits","sample",0.002,NA
 "18",2026-10-10,"wk inc covid prop ed visits","sample",0.0025,NA
 "19",2026-10-10,"wk inc covid prop ed visits","sample",NA,NA
-"20",2026-10-10,"wk inc covid prop ed visits","sample",0.0016,NA
-"21",2026-10-10,"wk inc covid prop ed visits","sample",0.0037,NA
-"22",2026-10-10,"wk inc covid prop ed visits","sample",0.0062,NA
-"23",2026-10-10,"wk inc covid prop ed visits","sample",0.0028,NA
+"20",2026-10-10,"wk inc covid prop ed visits","sample",0.0018,NA
+"21",2026-10-10,"wk inc covid prop ed visits","sample",0.004,NA
+"22",2026-10-10,"wk inc covid prop ed visits","sample",0.0066,NA
+"23",2026-10-10,"wk inc covid prop ed visits","sample",0.0032,NA
 "24",2026-10-10,"wk inc covid prop ed visits","sample",0.0042,NA
-"25",2026-10-10,"wk inc covid prop ed visits","sample",0.0037,NA
+"25",2026-10-10,"wk inc covid prop ed visits","sample",0.0039,NA
 "26",2026-10-10,"wk inc covid prop ed visits","sample",0.0014,NA
-"27",2026-10-10,"wk inc covid prop ed visits","sample",0.0029,NA
-"28",2026-10-10,"wk inc covid prop ed visits","sample",0.0041,NA
-"29",2026-10-10,"wk inc covid prop ed visits","sample",0.0024,NA
-"30",2026-10-10,"wk inc covid prop ed visits","sample",0.004,NA
+"27",2026-10-10,"wk inc covid prop ed visits","sample",0.003,NA
+"28",2026-10-10,"wk inc covid prop ed visits","sample",0.0042,NA
+"29",2026-10-10,"wk inc covid prop ed visits","sample",0.0028,NA
+"30",2026-10-10,"wk inc covid prop ed visits","sample",0.0041,NA
 "31",2026-10-10,"wk inc covid prop ed visits","sample",0.0016,NA
-"32",2026-10-10,"wk inc covid prop ed visits","sample",0.0063,NA
-"33",2026-10-10,"wk inc covid prop ed visits","sample",0.0029,NA
-"34",2026-10-10,"wk inc covid prop ed visits","sample",0.0047,NA
-"35",2026-10-10,"wk inc covid prop ed visits","sample",0.0036,NA
-"36",2026-10-10,"wk inc covid prop ed visits","sample",0.0037,NA
-"37",2026-10-10,"wk inc covid prop ed visits","sample",0.0062,NA
+"32",2026-10-10,"wk inc covid prop ed visits","sample",0.0068,NA
+"33",2026-10-10,"wk inc covid prop ed visits","sample",0.003,NA
+"34",2026-10-10,"wk inc covid prop ed visits","sample",0.005,NA
+"35",2026-10-10,"wk inc covid prop ed visits","sample",0.0039,NA
+"36",2026-10-10,"wk inc covid prop ed visits","sample",0.0039,NA
+"37",2026-10-10,"wk inc covid prop ed visits","sample",0.0065,NA
 "38",2026-10-10,"wk inc covid prop ed visits","sample",9e-04,NA
 "39",2026-10-10,"wk inc covid prop ed visits","sample",0.0018,NA
 "40",2026-10-10,"wk inc covid prop ed visits","sample",0.002,NA
-"41",2026-10-10,"wk inc covid prop ed visits","sample",0.0096,NA
-"42",2026-10-10,"wk inc covid prop ed visits","sample",0.0023,NA
+"41",2026-10-10,"wk inc covid prop ed visits","sample",0.0099,NA
+"42",2026-10-10,"wk inc covid prop ed visits","sample",0.0022,NA
 "44",2026-10-10,"wk inc covid prop ed visits","sample",0.0038,NA
 "45",2026-10-10,"wk inc covid prop ed visits","sample",0.0047,NA
 "46",2026-10-10,"wk inc covid prop ed visits","sample",0.0016,NA
-"47",2026-10-10,"wk inc covid prop ed visits","sample",0.0044,NA
-"48",2026-10-10,"wk inc covid prop ed visits","sample",0.0058,NA
-"49",2026-10-10,"wk inc covid prop ed visits","sample",0.0046,NA
-"50",2026-10-10,"wk inc covid prop ed visits","sample",0.0013,NA
-"51",2026-10-10,"wk inc covid prop ed visits","sample",0.0053,NA
-"53",2026-10-10,"wk inc covid prop ed visits","sample",0.0088,NA
-"54",2026-10-10,"wk inc covid prop ed visits","sample",0.0034,NA
-"55",2026-10-10,"wk inc covid prop ed visits","sample",0.0015,NA
-"56",2026-10-10,"wk inc covid prop ed visits","sample",0.0057,NA
+"47",2026-10-10,"wk inc covid prop ed visits","sample",0.0051,NA
+"48",2026-10-10,"wk inc covid prop ed visits","sample",0.0059,NA
+"49",2026-10-10,"wk inc covid prop ed visits","sample",0.0047,NA
+"50",2026-10-10,"wk inc covid prop ed visits","sample",0.0015,NA
+"51",2026-10-10,"wk inc covid prop ed visits","sample",0.0054,NA
+"53",2026-10-10,"wk inc covid prop ed visits","sample",0.0093,NA
+"54",2026-10-10,"wk inc covid prop ed visits","sample",0.004,NA
+"55",2026-10-10,"wk inc covid prop ed visits","sample",0.0016,NA
+"56",2026-10-10,"wk inc covid prop ed visits","sample",0.0059,NA
+"US",2026-10-17,"wk inc covid hosp","quantile",3825,NA
+"01",2026-10-17,"wk inc covid hosp","quantile",75,NA
+"02",2026-10-17,"wk inc covid hosp","quantile",2,NA
+"04",2026-10-17,"wk inc covid hosp","quantile",64,NA
+"05",2026-10-17,"wk inc covid hosp","quantile",11,NA
+"06",2026-10-17,"wk inc covid hosp","quantile",595,NA
+"08",2026-10-17,"wk inc covid hosp","quantile",25,NA
+"09",2026-10-17,"wk inc covid hosp","quantile",52,NA
+"10",2026-10-17,"wk inc covid hosp","quantile",5,NA
+"11",2026-10-17,"wk inc covid hosp","quantile",16,NA
+"12",2026-10-17,"wk inc covid hosp","quantile",439,NA
+"13",2026-10-17,"wk inc covid hosp","quantile",80,NA
+"15",2026-10-17,"wk inc covid hosp","quantile",21,NA
+"16",2026-10-17,"wk inc covid hosp","quantile",16,NA
+"17",2026-10-17,"wk inc covid hosp","quantile",74,NA
+"18",2026-10-17,"wk inc covid hosp","quantile",55,NA
+"19",2026-10-17,"wk inc covid hosp","quantile",11,NA
+"20",2026-10-17,"wk inc covid hosp","quantile",16,NA
+"21",2026-10-17,"wk inc covid hosp","quantile",26,NA
+"22",2026-10-17,"wk inc covid hosp","quantile",67,NA
+"23",2026-10-17,"wk inc covid hosp","quantile",6,NA
+"24",2026-10-17,"wk inc covid hosp","quantile",42,NA
+"25",2026-10-17,"wk inc covid hosp","quantile",45,NA
+"26",2026-10-17,"wk inc covid hosp","quantile",47,NA
+"27",2026-10-17,"wk inc covid hosp","quantile",27,NA
+"28",2026-10-17,"wk inc covid hosp","quantile",25,NA
+"29",2026-10-17,"wk inc covid hosp","quantile",40,NA
+"30",2026-10-17,"wk inc covid hosp","quantile",25,NA
+"31",2026-10-17,"wk inc covid hosp","quantile",9,NA
+"32",2026-10-17,"wk inc covid hosp","quantile",14,NA
+"33",2026-10-17,"wk inc covid hosp","quantile",15,NA
+"34",2026-10-17,"wk inc covid hosp","quantile",142,NA
+"35",2026-10-17,"wk inc covid hosp","quantile",16,NA
+"36",2026-10-17,"wk inc covid hosp","quantile",316,NA
+"37",2026-10-17,"wk inc covid hosp","quantile",223,NA
+"38",2026-10-17,"wk inc covid hosp","quantile",4,NA
+"39",2026-10-17,"wk inc covid hosp","quantile",84,NA
+"40",2026-10-17,"wk inc covid hosp","quantile",23,NA
+"41",2026-10-17,"wk inc covid hosp","quantile",75,NA
+"42",2026-10-17,"wk inc covid hosp","quantile",173,NA
+"44",2026-10-17,"wk inc covid hosp","quantile",19,NA
+"45",2026-10-17,"wk inc covid hosp","quantile",65,NA
+"46",2026-10-17,"wk inc covid hosp","quantile",4,NA
+"47",2026-10-17,"wk inc covid hosp","quantile",85,NA
+"48",2026-10-17,"wk inc covid hosp","quantile",296,NA
+"49",2026-10-17,"wk inc covid hosp","quantile",13,NA
+"50",2026-10-17,"wk inc covid hosp","quantile",9,NA
+"51",2026-10-17,"wk inc covid hosp","quantile",39,NA
+"53",2026-10-17,"wk inc covid hosp","quantile",156,NA
+"54",2026-10-17,"wk inc covid hosp","quantile",31,NA
+"55",2026-10-17,"wk inc covid hosp","quantile",22,NA
+"56",2026-10-17,"wk inc covid hosp","quantile",5,NA
+"72",2026-10-17,"wk inc covid hosp","quantile",80,NA
+"US",2026-10-17,"wk inc covid prop ed visits","quantile",0.0044,NA
+"01",2026-10-17,"wk inc covid prop ed visits","quantile",0.0039,NA
+"02",2026-10-17,"wk inc covid prop ed visits","quantile",0.0022,NA
+"04",2026-10-17,"wk inc covid prop ed visits","quantile",0.0049,NA
+"05",2026-10-17,"wk inc covid prop ed visits","quantile",0.0042,NA
+"06",2026-10-17,"wk inc covid prop ed visits","quantile",0.0053,NA
+"08",2026-10-17,"wk inc covid prop ed visits","quantile",0.0027,NA
+"09",2026-10-17,"wk inc covid prop ed visits","quantile",0.0051,NA
+"10",2026-10-17,"wk inc covid prop ed visits","quantile",NA,NA
+"11",2026-10-17,"wk inc covid prop ed visits","quantile",0.0032,NA
+"12",2026-10-17,"wk inc covid prop ed visits","quantile",0.0068,NA
+"13",2026-10-17,"wk inc covid prop ed visits","quantile",NA,NA
+"15",2026-10-17,"wk inc covid prop ed visits","quantile",0.0115,NA
+"16",2026-10-17,"wk inc covid prop ed visits","quantile",0.0056,NA
+"17",2026-10-17,"wk inc covid prop ed visits","quantile",0.0019,NA
+"18",2026-10-17,"wk inc covid prop ed visits","quantile",0.0027,NA
+"19",2026-10-17,"wk inc covid prop ed visits","quantile",NA,NA
+"20",2026-10-17,"wk inc covid prop ed visits","quantile",0.0022,NA
+"21",2026-10-17,"wk inc covid prop ed visits","quantile",0.0034,NA
+"22",2026-10-17,"wk inc covid prop ed visits","quantile",0.0056,NA
+"23",2026-10-17,"wk inc covid prop ed visits","quantile",0.0021,NA
+"24",2026-10-17,"wk inc covid prop ed visits","quantile",0.0043,NA
+"25",2026-10-17,"wk inc covid prop ed visits","quantile",0.0039,NA
+"26",2026-10-17,"wk inc covid prop ed visits","quantile",0.0016,NA
+"27",2026-10-17,"wk inc covid prop ed visits","quantile",0.0021,NA
+"28",2026-10-17,"wk inc covid prop ed visits","quantile",0.0044,NA
+"29",2026-10-17,"wk inc covid prop ed visits","quantile",0.0029,NA
+"30",2026-10-17,"wk inc covid prop ed visits","quantile",0.003,NA
+"31",2026-10-17,"wk inc covid prop ed visits","quantile",0.0014,NA
+"32",2026-10-17,"wk inc covid prop ed visits","quantile",0.0048,NA
+"33",2026-10-17,"wk inc covid prop ed visits","quantile",0.0039,NA
+"34",2026-10-17,"wk inc covid prop ed visits","quantile",0.0037,NA
+"35",2026-10-17,"wk inc covid prop ed visits","quantile",0.0039,NA
+"36",2026-10-17,"wk inc covid prop ed visits","quantile",0.0035,NA
+"37",2026-10-17,"wk inc covid prop ed visits","quantile",0.0065,NA
+"38",2026-10-17,"wk inc covid prop ed visits","quantile",9e-04,NA
+"39",2026-10-17,"wk inc covid prop ed visits","quantile",0.0021,NA
+"40",2026-10-17,"wk inc covid prop ed visits","quantile",0.0035,NA
+"41",2026-10-17,"wk inc covid prop ed visits","quantile",0.0086,NA
+"42",2026-10-17,"wk inc covid prop ed visits","quantile",0.0022,NA
+"44",2026-10-17,"wk inc covid prop ed visits","quantile",0.0047,NA
+"45",2026-10-17,"wk inc covid prop ed visits","quantile",0.0056,NA
+"46",2026-10-17,"wk inc covid prop ed visits","quantile",0.0017,NA
+"47",2026-10-17,"wk inc covid prop ed visits","quantile",0.0045,NA
+"48",2026-10-17,"wk inc covid prop ed visits","quantile",0.0053,NA
+"49",2026-10-17,"wk inc covid prop ed visits","quantile",0.0047,NA
+"50",2026-10-17,"wk inc covid prop ed visits","quantile",0.0026,NA
+"51",2026-10-17,"wk inc covid prop ed visits","quantile",0.0054,NA
+"53",2026-10-17,"wk inc covid prop ed visits","quantile",0.0084,NA
+"54",2026-10-17,"wk inc covid prop ed visits","quantile",0.0041,NA
+"55",2026-10-17,"wk inc covid prop ed visits","quantile",0.0014,NA
+"56",2026-10-17,"wk inc covid prop ed visits","quantile",0.0081,NA
+"US",2026-10-17,"wk inc covid hosp","sample",3825,NA
+"01",2026-10-17,"wk inc covid hosp","sample",75,NA
+"02",2026-10-17,"wk inc covid hosp","sample",2,NA
+"04",2026-10-17,"wk inc covid hosp","sample",64,NA
+"05",2026-10-17,"wk inc covid hosp","sample",11,NA
+"06",2026-10-17,"wk inc covid hosp","sample",595,NA
+"08",2026-10-17,"wk inc covid hosp","sample",25,NA
+"09",2026-10-17,"wk inc covid hosp","sample",52,NA
+"10",2026-10-17,"wk inc covid hosp","sample",5,NA
+"11",2026-10-17,"wk inc covid hosp","sample",16,NA
+"12",2026-10-17,"wk inc covid hosp","sample",439,NA
+"13",2026-10-17,"wk inc covid hosp","sample",80,NA
+"15",2026-10-17,"wk inc covid hosp","sample",21,NA
+"16",2026-10-17,"wk inc covid hosp","sample",16,NA
+"17",2026-10-17,"wk inc covid hosp","sample",74,NA
+"18",2026-10-17,"wk inc covid hosp","sample",55,NA
+"19",2026-10-17,"wk inc covid hosp","sample",11,NA
+"20",2026-10-17,"wk inc covid hosp","sample",16,NA
+"21",2026-10-17,"wk inc covid hosp","sample",26,NA
+"22",2026-10-17,"wk inc covid hosp","sample",67,NA
+"23",2026-10-17,"wk inc covid hosp","sample",6,NA
+"24",2026-10-17,"wk inc covid hosp","sample",42,NA
+"25",2026-10-17,"wk inc covid hosp","sample",45,NA
+"26",2026-10-17,"wk inc covid hosp","sample",47,NA
+"27",2026-10-17,"wk inc covid hosp","sample",27,NA
+"28",2026-10-17,"wk inc covid hosp","sample",25,NA
+"29",2026-10-17,"wk inc covid hosp","sample",40,NA
+"30",2026-10-17,"wk inc covid hosp","sample",25,NA
+"31",2026-10-17,"wk inc covid hosp","sample",9,NA
+"32",2026-10-17,"wk inc covid hosp","sample",14,NA
+"33",2026-10-17,"wk inc covid hosp","sample",15,NA
+"34",2026-10-17,"wk inc covid hosp","sample",142,NA
+"35",2026-10-17,"wk inc covid hosp","sample",16,NA
+"36",2026-10-17,"wk inc covid hosp","sample",316,NA
+"37",2026-10-17,"wk inc covid hosp","sample",223,NA
+"38",2026-10-17,"wk inc covid hosp","sample",4,NA
+"39",2026-10-17,"wk inc covid hosp","sample",84,NA
+"40",2026-10-17,"wk inc covid hosp","sample",23,NA
+"41",2026-10-17,"wk inc covid hosp","sample",75,NA
+"42",2026-10-17,"wk inc covid hosp","sample",173,NA
+"44",2026-10-17,"wk inc covid hosp","sample",19,NA
+"45",2026-10-17,"wk inc covid hosp","sample",65,NA
+"46",2026-10-17,"wk inc covid hosp","sample",4,NA
+"47",2026-10-17,"wk inc covid hosp","sample",85,NA
+"48",2026-10-17,"wk inc covid hosp","sample",296,NA
+"49",2026-10-17,"wk inc covid hosp","sample",13,NA
+"50",2026-10-17,"wk inc covid hosp","sample",9,NA
+"51",2026-10-17,"wk inc covid hosp","sample",39,NA
+"53",2026-10-17,"wk inc covid hosp","sample",156,NA
+"54",2026-10-17,"wk inc covid hosp","sample",31,NA
+"55",2026-10-17,"wk inc covid hosp","sample",22,NA
+"56",2026-10-17,"wk inc covid hosp","sample",5,NA
+"72",2026-10-17,"wk inc covid hosp","sample",80,NA
+"US",2026-10-17,"wk inc covid prop ed visits","sample",0.0044,NA
+"01",2026-10-17,"wk inc covid prop ed visits","sample",0.0039,NA
+"02",2026-10-17,"wk inc covid prop ed visits","sample",0.0022,NA
+"04",2026-10-17,"wk inc covid prop ed visits","sample",0.0049,NA
+"05",2026-10-17,"wk inc covid prop ed visits","sample",0.0042,NA
+"06",2026-10-17,"wk inc covid prop ed visits","sample",0.0053,NA
+"08",2026-10-17,"wk inc covid prop ed visits","sample",0.0027,NA
+"09",2026-10-17,"wk inc covid prop ed visits","sample",0.0051,NA
+"10",2026-10-17,"wk inc covid prop ed visits","sample",NA,NA
+"11",2026-10-17,"wk inc covid prop ed visits","sample",0.0032,NA
+"12",2026-10-17,"wk inc covid prop ed visits","sample",0.0068,NA
+"13",2026-10-17,"wk inc covid prop ed visits","sample",NA,NA
+"15",2026-10-17,"wk inc covid prop ed visits","sample",0.0115,NA
+"16",2026-10-17,"wk inc covid prop ed visits","sample",0.0056,NA
+"17",2026-10-17,"wk inc covid prop ed visits","sample",0.0019,NA
+"18",2026-10-17,"wk inc covid prop ed visits","sample",0.0027,NA
+"19",2026-10-17,"wk inc covid prop ed visits","sample",NA,NA
+"20",2026-10-17,"wk inc covid prop ed visits","sample",0.0022,NA
+"21",2026-10-17,"wk inc covid prop ed visits","sample",0.0034,NA
+"22",2026-10-17,"wk inc covid prop ed visits","sample",0.0056,NA
+"23",2026-10-17,"wk inc covid prop ed visits","sample",0.0021,NA
+"24",2026-10-17,"wk inc covid prop ed visits","sample",0.0043,NA
+"25",2026-10-17,"wk inc covid prop ed visits","sample",0.0039,NA
+"26",2026-10-17,"wk inc covid prop ed visits","sample",0.0016,NA
+"27",2026-10-17,"wk inc covid prop ed visits","sample",0.0021,NA
+"28",2026-10-17,"wk inc covid prop ed visits","sample",0.0044,NA
+"29",2026-10-17,"wk inc covid prop ed visits","sample",0.0029,NA
+"30",2026-10-17,"wk inc covid prop ed visits","sample",0.003,NA
+"31",2026-10-17,"wk inc covid prop ed visits","sample",0.0014,NA
+"32",2026-10-17,"wk inc covid prop ed visits","sample",0.0048,NA
+"33",2026-10-17,"wk inc covid prop ed visits","sample",0.0039,NA
+"34",2026-10-17,"wk inc covid prop ed visits","sample",0.0037,NA
+"35",2026-10-17,"wk inc covid prop ed visits","sample",0.0039,NA
+"36",2026-10-17,"wk inc covid prop ed visits","sample",0.0035,NA
+"37",2026-10-17,"wk inc covid prop ed visits","sample",0.0065,NA
+"38",2026-10-17,"wk inc covid prop ed visits","sample",9e-04,NA
+"39",2026-10-17,"wk inc covid prop ed visits","sample",0.0021,NA
+"40",2026-10-17,"wk inc covid prop ed visits","sample",0.0035,NA
+"41",2026-10-17,"wk inc covid prop ed visits","sample",0.0086,NA
+"42",2026-10-17,"wk inc covid prop ed visits","sample",0.0022,NA
+"44",2026-10-17,"wk inc covid prop ed visits","sample",0.0047,NA
+"45",2026-10-17,"wk inc covid prop ed visits","sample",0.0056,NA
+"46",2026-10-17,"wk inc covid prop ed visits","sample",0.0017,NA
+"47",2026-10-17,"wk inc covid prop ed visits","sample",0.0045,NA
+"48",2026-10-17,"wk inc covid prop ed visits","sample",0.0053,NA
+"49",2026-10-17,"wk inc covid prop ed visits","sample",0.0047,NA
+"50",2026-10-17,"wk inc covid prop ed visits","sample",0.0026,NA
+"51",2026-10-17,"wk inc covid prop ed visits","sample",0.0054,NA
+"53",2026-10-17,"wk inc covid prop ed visits","sample",0.0084,NA
+"54",2026-10-17,"wk inc covid prop ed visits","sample",0.0041,NA
+"55",2026-10-17,"wk inc covid prop ed visits","sample",0.0014,NA
+"56",2026-10-17,"wk inc covid prop ed visits","sample",0.0081,NA
